@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Song Finder</title>
+  </head>
+  <body>
+    <h1>Song Finder</h1>
+    <input id="searchBox" type="text" placeholder="Search for a song..." />
+    <ul id="results"></ul>
+
+    <!-- Load the data first -->
+    <script src="songs.js"></script>
+
+    <!-- Then use it -->
+    <script>
+      const input = document.getElementById("searchBox");
+      const results = document.getElementById("results");
+
+      input.addEventListener("input", () => {
+        const query = input.value.toLowerCase();
+        results.innerHTML = "";
+
+        const matches = songs.filter((song) =>
+          song.song_name.toLowerCase().includes(query),
+        );
+
+        matches.slice(0, 20).forEach((song) => {
+          const li = document.createElement("li");
+          li.textContent = `${song.song_name} (p.${song.page_num})`;
+          results.appendChild(li);
+        });
+      });
+    </script>
+  </body>
+</html>
