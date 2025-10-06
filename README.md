@@ -4,7 +4,8 @@ A personal utility for quickly indexing and searching the Jazz Real Book
 
 ### Working:
 
-A minimal finder for songs in the real book. Simply open up the finder.html file and search for songs by entering queries into the input text area.
+A minimal finder for songs in the real book. Simply open up the index.html file and search for songs by entering queries into the input text area.
+- Or check out a minimal deployment [here](https://real-finder.vercel.app/)
 
 ### Future:
 
