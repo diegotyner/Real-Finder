@@ -1,8 +1,6 @@
 # Real-Finder
 
-A personal utility for quickly indexing and searching the Jazz Real Book. Currently only the sixth edition is indexed, more to come soon.
-
-- The fifth edition is indexed, will refactor website to accomodate soon
+A personal utility for quickly indexing and searching the Jazz Real Book. Currently the fifth and sixth editions are indexed, more to come soon.
 
 - Check out a minimal deployment [here](https://real-finder.vercel.app/)
 
