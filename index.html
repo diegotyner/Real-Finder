@@ -5,8 +5,8 @@
     <title>Song Finder</title>
     <style>
       #searchControls {
-          display: flex; /* Enables flexible layout */
-          gap: 20px;     /* Adds 20px space between the items */
+        display: flex; /* Enables flexible layout */
+        gap: 20px; /* Adds 20px space between the items */
       }
       #resultsContainer {
         display: flex;
@@ -30,8 +30,10 @@
     <h1>Song Finder</h1>
 
     <div id="searchControls">
-        <input id="searchBox" type="text" placeholder="Search for a song..." />
-        <a href="public/Jazz_Real_Book.pdf" target="_blank">Full Jazz Real Book PDF</a>
+      <input id="searchBox" type="text" placeholder="Search for a song..." />
+      <a href="public/Jazz_Real_Book.pdf" target="_blank"
+        >Full Jazz Real Book PDF</a
+      >
     </div>
 
     <div id="resultsContainer">
@@ -63,8 +65,8 @@
         return splitStr.join(" ");
       }
 
-      function createLinkTarget(song_name, page_num) {
-        return `public/jrb-6-ed/${page_num-1}/${song_name.trim().replaceAll(" ", "_").toUpperCase()}.pdf`
+      function createLinkTarget(song_name, page_num, edition) {
+        return `public/jrb-${edition}-ed/${page_num}/${song_name.trim().replaceAll(" ", "_").toUpperCase()}.pdf`;
       }
 
       // const jrb_loc = "public/Jazz_Real_Book.pdf";
@@ -100,9 +102,13 @@
         matches.slice(0, 20).forEach((song) => {
           const li = document.createElement("li");
           const a = document.createElement("a");
-          a.href = createLinkTarget(song.song_name, song.page_num);
+          a.href = createLinkTarget(
+            song.song_name,
+            song.page_num,
+            song.edition,
+          );
           a.target = "_blank"; // open in new tab
-          a.textContent = `${titleCase(song.song_name)} (p.${song.page_num})`;
+          a.textContent = `${titleCase(song.song_name)} (p.${song.page_num}) (ed.${song.edition})`;
           li.appendChild(a);
           exactResults.appendChild(li);
         });
@@ -113,9 +119,13 @@
         fuzzyMatches.slice(0, 20).forEach((result) => {
           const li = document.createElement("li");
           const a = document.createElement("a");
-          a.href = createLinkTarget(result.item.song_name, result.item.page_num);
+          a.href = createLinkTarget(
+            result.item.song_name,
+            result.item.page_num,
+            result.item.edition,
+          );
           a.target = "_blank";
-          a.textContent = `${titleCase(result.item.song_name)} (p.${result.item.page_num}) [score: ${result.score.toFixed(2)}]`;
+          a.textContent = `${titleCase(result.item.song_name)} (p.${result.item.page_num}) (ed.${result.item.edition}) [score: ${result.score.toFixed(2)}]`;
           li.appendChild(a);
           fuzzyResults.appendChild(li);
         });
