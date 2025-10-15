@@ -5,4 +5,14 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue(), tailwindcss()],
+  build: {
+    rollupOptions: {
+      input: {
+        // Main application entry point
+        main: resolve(__dirname, "index.html"),
+        // Explicitly include the legacy site as a second entry point
+        legacy: resolve(__dirname, "legacy.html"),
+      },
+    },
+  },
 });

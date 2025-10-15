@@ -23,7 +23,7 @@ const titleCase = (str) => {
 const createLinkTarget = (song_name, page_num, edition) => {
   // Use a computed property for cleaned song name once
   const cleanedName = song_name.trim().replaceAll(" ", "_").toUpperCase();
-  return `public/jrb-${edition}-ed/${page_num}/${cleanedName}.pdf`;
+  return `jrb-${edition}-ed/${page_num}/${cleanedName}.pdf`;
 };
 
 // 3. Fuse.js Setup (Initialization Logic)
