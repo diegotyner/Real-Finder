@@ -1,4 +1,4 @@
-songs = [
+export const songs = [
   {
     page_num: 10,
     song_name: "AFRICAN FLOWER",

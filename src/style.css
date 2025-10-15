@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: font-serif;
+  }
+}
+
+@layer components {
+  .link {
+    @apply text-blue-700 underline text-center;
+    &:hover {
+      @apply text-blue-900;
+    }
+  }
+}
