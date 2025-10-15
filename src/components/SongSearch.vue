@@ -27,10 +27,10 @@ const updateSearch = (event) => {
       class="border border-gray-600 px-1 rounded-sm"
     />
 
-    <a href="public/jrb_6.pdf" target="_blank" class="link"
+    <a href="jrb_6.pdf" target="_blank" class="link"
       >Full Jazz Real Book 6th ed. PDF</a
     >
-    <a href="public/jrb_5.pdf" target="_blank" class="link"
+    <a href="jrb_5.pdf" target="_blank" class="link"
       >Full Jazz Real Book 5th ed. PDF</a
     >
   </div>
