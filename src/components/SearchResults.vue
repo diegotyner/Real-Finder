@@ -1,5 +1,5 @@
 <script setup>
-// Best Practice: Components should be "dumb" (presentational) and accept all data via props.
+const emit = defineEmits(['select-song']);
 const props = defineProps({
   exactResults: {
     type: Array,
@@ -18,10 +18,17 @@ const props = defineProps({
       <h2 class="text-2xl font-semibold mb-3 border-b pb-1">Exact Matches</h2>
       
       <ul class="space-y-1">
-        <li v-for="song in exactResults" :key="`${song.song_name}-${song.edition}`">
-          <a :href="song.link" target="_blank" class="text-md text-gray-800 pl-2">
-            {{ song.display_name }} (p.{{ song.page_num }}) (ed.{{ song.edition }})
-          </a>
+        <li 
+          v-for="song in exactResults" 
+          :key="`${song.title}-${song.edition}`"
+          @click="$emit('select-song', song)" 
+          class="text-md text-gray-800 pl-2 cursor-pointer hover:bg-gray-100 transition-colors"
+        >
+          {{ song.display_name }} 
+          <span v-if="song.found.length" class="font-mono text-sm text-gray-500">(p.{{ song.found[0].page_number }}, ed.{{ song.found[0].edition_found }})</span>
+          <span v-if="song.found.length > 1" class="ml-1 text-xs text-blue-400 font-bold">
+            (+{{ song.found.length - 1 }} more)
+          </span>
         </li>
       </ul>
       <p v-if="exactResults.length === 0" class="text-gray-500 italic mt-2">No exact matches found.</p>
@@ -31,11 +38,17 @@ const props = defineProps({
       <h2 class="text-2xl font-semibold mb-3 border-b pb-1">Fuzzy Matches</h2>
       
       <ul class="space-y-1">
-        <li v-for="song in fuzzyResults" :key="`${song.song_name}-${song.edition}-${song.score}`">
-          <a :href="song.link" target="_blank" class="text-md text-gray-800 pl-2">
-            {{ song.display_name }} (p.{{ song.page_num }}) (ed.{{ song.edition }}) 
-            <span class="text-sm text-gray-400">[score: {{ song.score }}]</span>
-          </a>
+        <li 
+          v-for="song in fuzzyResults" 
+          :key="`${song.title}-${song.edition}`"
+          @click="$emit('select-song', song)"
+          class="text-md text-gray-800 pl-2 cursor-pointer hover:bg-gray-100 transition-colors"
+        >
+          {{ song.display_name }} 
+          <span v-if="song.found.length" class="font-mono text-sm text-gray-500">(p.{{ song.found[0].page_number }}, ed.{{ song.found[0].edition_found }})</span>
+          <span v-if="song.found.length > 1" class="ml-1 text-xs text-blue-500 font-bold">
+            (+{{ song.found.length - 1 }} more)
+          </span>
         </li>
       </ul>
       <p v-if="fuzzyResults.length === 0" class="text-gray-500 italic mt-2">No fuzzy matches found.</p>

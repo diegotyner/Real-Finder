@@ -1,0 +1,80 @@
+<template>
+  <div class="song-index">
+    <h2>Song Index: Edition {{ edition }}</h2>
+    <div v-if="processedSongList.length">
+      <table>
+        <thead>
+          <tr>
+            <th>Page</th>
+            <th>Title</th>
+            <th>Composer</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr v-for="(song, index) in processedSongList" :key="index">
+            <td>{{ song.page_number }}</td>
+            <td>
+              <a :href="song.link" target="_blank" rel="noopener noreferrer">
+                {{ titleCase(song.title.toLowerCase()) }}
+              </a>
+            </td>
+            <td>{{ song.composer }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div v-else>
+      <p>No songs found for Edition {{ edition }}.</p>
+    </div>
+  </div>
+</template>
+
+<script setup lang="ts">
+import { computed } from 'vue';
+import { editionIndex } from '@/data/indexed_data'; // The pre-processed index data
+import { createLinkTarget } from '@/utils/createLinkTarget'; // The utility function
+import { titleCase } from '@/utils/titleCase';
+
+// Define component options like 'name' using the defineOptions macro (Vue 3.3+)
+// If on an older version, this must be omitted, and 'name' must be defined 
+// only via the filename.
+defineOptions({
+    name: 'SongIndex'
+});
+
+// Define the expected data structure for a single index entry
+interface SongEntry {
+    title: string;
+    composer: string;
+    page_number: number;
+}
+
+// Define Props using the defineProps macro (replaces the 'props: {}' option)
+const props = defineProps<{
+    edition: string | number; // TypeScript syntax for props definition
+}>();
+
+// The logic that was in 'computed: {}' is now a standard variable assignment
+// using the computed() function from 'vue'.
+const processedSongList = computed(() => {
+    // 1. Get the edition number (string key for JSON, number for function)
+    const edKey = String(props.edition);
+    const edNum = Number(props.edition);
+
+    // 2. Retrieve the raw list (add type assertion to satisfy TypeScript)
+    const rawList: SongEntry[] = editionIndex[edKey] || [];
+
+    // 3. Map over the list to calculate and add the link
+    return rawList.map(song => ({
+        ...song,
+        // Calculate the link
+        link: createLinkTarget(song.title, song.page_number, edNum)
+    }));
+});
+</script>
+
+<style scoped>
+/* Minimal CSS for readability */
+table { width: 100%; border-collapse: collapse; }
+th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+</style>

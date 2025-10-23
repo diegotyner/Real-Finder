@@ -1,0 +1,5 @@
+10/23/25 - Deleted Blue in Green match to Bein' Green, from central metadata file and keyed metadata file
+
+# Future:
+- Match corcovado manually
+- Switch 6: GEE BABY... and GEMINI page numbers and file names
