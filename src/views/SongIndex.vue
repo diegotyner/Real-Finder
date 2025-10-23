@@ -68,7 +68,7 @@ const processedSongList = computed(() => {
     return rawList.map(song => ({
         ...song,
         // Calculate the link
-        link: createLinkTarget(song.title, song.page_number, edNum)
+        link: createLinkTarget(song.scanned_title, song.page_number, edNum)
     }));
 });
 </script>
