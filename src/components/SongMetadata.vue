@@ -44,7 +44,7 @@ const closeModal = () => {
           :key="`${item.edition_found}-${item.page_number}`"
           class="bg-white p-3 border rounded shadow-sm relative"
         >
-          <a :href="createLinkTarget(songData.title, item.page_number, item.edition_found)" target="_blank" class="absolute top-3 right-3 text-sm text-indigo-600"> View PDF</a>
+          <a :href="createLinkTarget(item.scanned_title, item.page_number, item.edition_found)" target="_blank" class="absolute top-3 right-3 text-sm text-indigo-600"> View PDF</a>
           <p><strong>Edition:</strong> {{ item.edition_found }}</p>
           <p><strong>Page:</strong> {{ item.page_number }}</p>
           <p><strong>Scanned Title:</strong> {{ item.scanned_title }}</p>
