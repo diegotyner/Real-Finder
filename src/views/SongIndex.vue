@@ -1,6 +1,6 @@
 <template>
-  <div class="song-index">
-    <h2>Song Index: Edition {{ edition }}</h2>
+  <div class="p-6">
+    <h1 class="text-3xl font-bold mb-6">Song Index: Edition {{ edition }}</h1>
     <div v-if="processedSongList.length">
       <table>
         <thead>

@@ -32,7 +32,7 @@ const closeModal = () => {
       </h2>
       <div class="grid grid-cols-2 gap-4 text-lg">
         <p><strong>Composer:</strong> {{ songData.composer }}</p>
-        <p><strong>Key:</strong> {{ songData.key || 'C' }}</p>
+        <p><strong>Key:</strong> {{ songData.key ? songData.key : songData.composer != 'No Metadata' ? 'C' : 'No Metadata' }}</p>
         <p><strong>Rhythm:</strong> {{ songData.rhythm }}</p>
         <p><strong>Time Signature:</strong> {{ songData.time_signature }}</p>
       </div>
