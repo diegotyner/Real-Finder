@@ -36,6 +36,36 @@
     ]
   },
   {
+    "title": "A Beautiful Friendship",
+    "composer": "Donald Kahn",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 17,
+        "scanned_title": "Beautiful Friendship",
+        "match_score": 97.43589743589743
+      }
+    ]
+  },
+  {
+    "title": "A Certain Smile",
+    "composer": "Fain-Webster",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 48,
+        "scanned_title": "Certain Smile, A",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "A Child Is Born",
     "composer": "Roland Hanna",
     "key": "Bb",
@@ -114,6 +144,51 @@
     ]
   },
   {
+    "title": "A Nightingale Sang In Berkeley Square",
+    "composer": "Manning Sherwin",
+    "key": "Eb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 213,
+        "scanned_title": "Nightingale Sang In Berkeley Square, A",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "A Pretty Girl Is Like A Melody",
+    "composer": "Irving Berlin",
+    "key": "G",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 243,
+        "scanned_title": "Pretty Girl Is Like A Melody, A",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "A Sleepin' Bee",
+    "composer": "Harold Arlen",
+    "key": "Ab",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 268,
+        "scanned_title": "Sleepin' Bee, A",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "A Sunday Kind Of Love",
     "composer": "Belle-Prima-Leonard-Rhodes",
     "key": "F",
@@ -124,6 +199,21 @@
         "edition_found": 6,
         "page_number": 392,
         "scanned_title": "A SUNDAY KIND OF LOVE",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "A Time For Love",
+    "composer": "Johnny Mandel",
+    "key": "F",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 315,
+        "scanned_title": "Time For Love, A",
         "match_score": 100.0
       }
     ]
@@ -171,6 +261,36 @@
     ]
   },
   {
+    "title": "After You",
+    "composer": "Cole Porter",
+    "key": null,
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 1,
+        "scanned_title": "After You",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "After You've Gone",
+    "composer": "Henry Creamer",
+    "key": "Bb",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 2,
+        "scanned_title": "After You've Gone",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Afternoon In Paris",
     "composer": "John Lewis",
     "key": null,
@@ -187,6 +307,21 @@
         "edition_found": 6,
         "page_number": 12,
         "scanned_title": "AFTERNOON IN PARIS",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Ain't Misbehavin'",
+    "composer": "Fats Waller",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 3,
+        "scanned_title": "Ain't Misbehavin'",
         "match_score": 100.0
       }
     ]
@@ -342,6 +477,21 @@
     ]
   },
   {
+    "title": "All Or Nothing At All",
+    "composer": "Arthur Altman",
+    "key": "Amin",
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 4,
+        "scanned_title": "All Or Nothing At All",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "All The Things You Are",
     "composer": "Jerome Kern",
     "key": "Ab",
@@ -378,6 +528,21 @@
     ]
   },
   {
+    "title": "Along Came Betty",
+    "composer": "Benny Golson",
+    "key": "Ab",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 7,
+        "scanned_title": "Along Came Betty",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Always",
     "composer": "Irving Berlin",
     "key": "F",
@@ -388,6 +553,21 @@
         "edition_found": 6,
         "page_number": 23,
         "scanned_title": "ALWAYS",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Always And Forever",
+    "composer": "Pat Metheny",
+    "key": "Amin",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 8,
+        "scanned_title": "Always And Forever",
         "match_score": 100.0
       }
     ]
@@ -534,6 +714,21 @@
     ]
   },
   {
+    "title": "Armando's Rhumba",
+    "composer": "Chick Corea",
+    "key": "Cmin",
+    "rhythm": "Latin",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 10,
+        "scanned_title": "Armando's Rhumba",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "As Time Goes By",
     "composer": "Herman Hupfeld",
     "key": "Eb",
@@ -612,6 +807,36 @@
     ]
   },
   {
+    "title": "Autumn Nocturne",
+    "composer": "Gannon-Myrow",
+    "key": null,
+    "rhythm": "Slow Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 13,
+        "scanned_title": "Autumn Nocturne",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Be My Love",
+    "composer": "Nikolaus Brodszky",
+    "key": "G",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 18,
+        "scanned_title": "Be My Love",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Beautiful Love",
     "composer": "Victor Young",
     "key": "Dmin",
@@ -654,6 +879,57 @@
     ]
   },
   {
+    "title": "Bein' Green",
+    "composer": "Joe Raposo",
+    "key": "Bb",
+    "rhythm": "Even 8ths",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 5,
+        "page_number": 53,
+        "scanned_title": "BLUE IN GREEN",
+        "match_score": 90.0
+      },
+      {
+        "edition_found": 6,
+        "page_number": 51,
+        "scanned_title": "BLUE IN GREEN",
+        "match_score": 90.0
+      }
+    ]
+  },
+  {
+    "title": "Bernie's Tune",
+    "composer": "Bernie Miller",
+    "key": "Dmin",
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 24,
+        "scanned_title": "Berrie's Tune",
+        "match_score": 90.9090909090909
+      }
+    ]
+  },
+  {
+    "title": "Bess You Is My Woman",
+    "composer": "George Gershwin",
+    "key": "Bb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 22,
+        "scanned_title": "Bess, You Is My Woman Now",
+        "match_score": 91.42857142857143
+      }
+    ]
+  },
+  {
     "title": "Bessie's Blues",
     "composer": "John Coltrane",
     "key": "Eb",
@@ -670,6 +946,36 @@
         "edition_found": 6,
         "page_number": 42,
         "scanned_title": "BESSIE'S BLUES",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Best Thing For You Is Me, The",
+    "composer": "Irving Berlin",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 25,
+        "scanned_title": "Best Thing For You Is Me",
+        "match_score": 92.6829268292683
+      }
+    ]
+  },
+  {
+    "title": "Better Git It In Your Soul",
+    "composer": "Charles Mingus",
+    "key": "F",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "6/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 26,
+        "scanned_title": "Better Git It In Your Soul",
         "match_score": 100.0
       }
     ]
@@ -795,6 +1101,21 @@
     ]
   },
   {
+    "title": "Blue Daniel",
+    "composer": "Frank Rosolino",
+    "key": "D",
+    "rhythm": "Waltz",
+    "time_signature": "3/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 28,
+        "scanned_title": "Blue Daniel",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Blue In Green",
     "composer": "Miles Davis, Bill Evans",
     "key": "Dmin",
@@ -915,6 +1236,21 @@
     ]
   },
   {
+    "title": "Bolivia",
+    "composer": "Cedar Walton",
+    "key": "D",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 31,
+        "scanned_title": "Bolivia",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Boplicity",
     "composer": "Cleo Henry",
     "key": "F",
@@ -931,6 +1267,36 @@
         "edition_found": 6,
         "page_number": 58,
         "scanned_title": "BOPLICITY",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Born To Be Blue",
+    "composer": "Wells-Torme",
+    "key": null,
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 35,
+        "scanned_title": "Born To Be Blue",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Boy Next Door, The",
+    "composer": "Martin-Blane",
+    "key": null,
+    "rhythm": "Waltz",
+    "time_signature": "3/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 37,
+        "scanned_title": "Boy Next Door, The",
         "match_score": 100.0
       }
     ]
@@ -967,6 +1333,21 @@
         "edition_found": 6,
         "page_number": 61,
         "scanned_title": "BROADWAY",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Bud Powell",
+    "composer": "Chick Corea",
+    "key": "F",
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 38,
+        "scanned_title": "Bud Powell",
         "match_score": 100.0
       }
     ]
@@ -1009,6 +1390,36 @@
         "edition_found": 6,
         "page_number": 63,
         "scanned_title": "BUTTERFLY",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "By Myself",
+    "composer": "Arthur Schwartz",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 43,
+        "scanned_title": "By Myself",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Bye Bye Baby",
+    "composer": "Jule Styne",
+    "key": "Bb",
+    "rhythm": "Medium Swing",
+    "time_signature": null,
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 44,
+        "scanned_title": "Bye Bye Baby",
         "match_score": 100.0
       }
     ]
@@ -1080,6 +1491,21 @@
     ]
   },
   {
+    "title": "Celia",
+    "composer": "Bud Powell",
+    "key": "Bb",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 46,
+        "scanned_title": "Celia",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Central Park West",
     "composer": "John Coltrane",
     "key": "B",
@@ -1117,6 +1543,21 @@
         "edition_found": 6,
         "page_number": 72,
         "scanned_title": "CEORA",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Cheek To Cheek",
+    "composer": "Irving Berlin",
+    "key": null,
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 50,
+        "scanned_title": "Cheek To Cheek",
         "match_score": 100.0
       }
     ]
@@ -1168,6 +1609,36 @@
         "edition_found": 5,
         "page_number": 78,
         "scanned_title": "CHEROKEE",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Cheryl",
+    "composer": "Charlie Parker",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 53,
+        "scanned_title": "Cheryl",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Close Enough For Love",
+    "composer": "Mandel-Williams",
+    "key": "Ab",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 54,
+        "scanned_title": "Close Enough For Love",
         "match_score": 100.0
       }
     ]
@@ -1380,6 +1851,21 @@
     ]
   },
   {
+    "title": "Cry Me A River",
+    "composer": "Arthur Hamilton",
+    "key": "Eb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 58,
+        "scanned_title": "Cry Me A River",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Crystal Silence",
     "composer": "Chick Corea",
     "key": "Amin",
@@ -1459,6 +1945,36 @@
         "edition_found": 6,
         "page_number": 99,
         "scanned_title": "DARN THAT DREAM",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Day Dream",
+    "composer": "Strayhorn-Ellington",
+    "key": "F",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 59,
+        "scanned_title": "Day Dream",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Day In, Day Out",
+    "composer": "Rube Bloom",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 62,
+        "scanned_title": "Day In, Day Out",
         "match_score": 100.0
       }
     ]
@@ -1635,6 +2151,21 @@
     ]
   },
   {
+    "title": "Dig",
+    "composer": "Miles Davis",
+    "key": "Ab",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 64,
+        "scanned_title": "Dig",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Django",
     "composer": "John Lewis",
     "key": "Fmin",
@@ -1785,6 +2316,21 @@
     ]
   },
   {
+    "title": "Dream Dancing",
+    "composer": "Cole Porter",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 71,
+        "scanned_title": "Dream Dancing",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Dreamsville",
     "composer": "Henry Mancini",
     "key": null,
@@ -1831,6 +2377,21 @@
         "edition_found": 6,
         "page_number": 135,
         "scanned_title": "ESP",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "East Of The Sun",
+    "composer": "Brooks Bowman",
+    "key": "G",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 72,
+        "scanned_title": "East Of The Sun",
         "match_score": 100.0
       }
     ]
@@ -1950,6 +2511,36 @@
     ]
   },
   {
+    "title": "Emily",
+    "composer": "Johnny Mandel",
+    "key": "G",
+    "rhythm": "Waltz",
+    "time_signature": "3/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 74,
+        "scanned_title": "Emily",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "End Of A Love Affair, The",
+    "composer": "Edward Redding",
+    "key": "F",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 75,
+        "scanned_title": "End Of A Love Affair, The",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Epistrophy",
     "composer": "Thelonious Monk, Kenny Clarke",
     "key": "Db",
@@ -1987,6 +2578,81 @@
         "edition_found": 6,
         "page_number": 133,
         "scanned_title": "EQUINOX",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Estate",
+    "composer": "Bruno Martino",
+    "key": "Bmin",
+    "rhythm": "Bossa Nova",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 78,
+        "scanned_title": "Estate",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Eternal Triangle",
+    "composer": "Sonny Stitt",
+    "key": "Bb",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 79,
+        "scanned_title": "Eternal Triangle",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Every Time We Say Goodbye",
+    "composer": "Cole Porter",
+    "key": "Eb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 80,
+        "scanned_title": "Ev'ry Time We Say Good Bye",
+        "match_score": 97.5609756097561
+      }
+    ]
+  },
+  {
+    "title": "Everything Happens To Me",
+    "composer": "Matt Dennis",
+    "key": "Bb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 82,
+        "scanned_title": "Everything Happens To Me",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Everything I Love",
+    "composer": "Cole Porter",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 83,
+        "scanned_title": "EverythingI Love",
         "match_score": 100.0
       }
     ]
@@ -2055,6 +2721,21 @@
     ]
   },
   {
+    "title": "Favela",
+    "composer": "Antonio-Carlos Jobim",
+    "key": "Gmin",
+    "rhythm": "Bossa Nova",
+    "time_signature": "3/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 85,
+        "scanned_title": "Favela",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Fee-Fi-Fo-Fum",
     "composer": "Wayne Shorter",
     "key": "Bb",
@@ -2072,6 +2753,21 @@
         "page_number": 139,
         "scanned_title": "FEE-FI-FO-FUM",
         "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Feel Like Makin' Love",
+    "composer": "Eugene McDaniels",
+    "key": "Eb",
+    "rhythm": "Rock Pop",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 86,
+        "scanned_title": "Fell Like Makin' Love",
+        "match_score": 94.11764705882352
       }
     ]
   },
@@ -2118,6 +2814,12 @@
     "rhythm": "Ballad",
     "time_signature": "4/4",
     "found": [
+      {
+        "edition_found": 3,
+        "page_number": 87,
+        "scanned_title": "For Heavens' Sake",
+        "match_score": 100.0
+      },
       {
         "edition_found": 5,
         "page_number": 159,
@@ -2217,6 +2919,51 @@
     ]
   },
   {
+    "title": "Freight Train",
+    "composer": "Tommy Flanagan",
+    "key": "Ab",
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 88,
+        "scanned_title": "Freight Trane",
+        "match_score": 91.66666666666666
+      }
+    ]
+  },
+  {
+    "title": "Friday The 13th",
+    "composer": "Thelonious Monk",
+    "key": "G",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 90,
+        "scanned_title": "Friday The 13th",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "From This Moment On",
+    "composer": "Cole Porter",
+    "key": "Fmin",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 94,
+        "scanned_title": "From This Moment On",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Full House",
     "composer": "Wes Montgomery",
     "key": "Fmin",
@@ -2232,6 +2979,21 @@
     ]
   },
   {
+    "title": "Funkallero",
+    "composer": "Bill Evans",
+    "key": "Cmin",
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 96,
+        "scanned_title": "Funkallero",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Gee Baby, Ain't I Good To You",
     "composer": "Don Redman",
     "key": "Eb",
@@ -2240,7 +3002,7 @@
     "found": [
       {
         "edition_found": 6,
-        "page_number": 156,
+        "page_number": 153,
         "scanned_title": "GEE BABY, AINT I GOOD TO YOU",
         "match_score": 100.0
       }
@@ -2331,6 +3093,51 @@
     ]
   },
   {
+    "title": "Godchild",
+    "composer": "George Wallington",
+    "key": "Ab",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 100,
+        "scanned_title": "Godchild",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Gone With The Wind",
+    "composer": "Allie Wrubel",
+    "key": "Eb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 101,
+        "scanned_title": "Gone With The Wind",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Goodbye",
+    "composer": "Gordon Jenkins",
+    "key": null,
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 102,
+        "scanned_title": "Goodbye",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Goodbye Pork Pie Hat",
     "composer": "Charles Mingus",
     "key": "Eb",
@@ -2341,6 +3148,21 @@
         "edition_found": 5,
         "page_number": 175,
         "scanned_title": "GOODBYE PORKPIE HAT",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Got A Match?",
+    "composer": "Chick Corea",
+    "key": "Dmin",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 103,
+        "scanned_title": "Got A Match",
         "match_score": 100.0
       }
     ]
@@ -2388,6 +3210,21 @@
     ]
   },
   {
+    "title": "H & H",
+    "composer": "Pat Metheny",
+    "key": null,
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "3/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 112,
+        "scanned_title": "H&H",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Half Nelson",
     "composer": "Miles Davis",
     "key": null,
@@ -2404,6 +3241,21 @@
         "edition_found": 6,
         "page_number": 170,
         "scanned_title": "HALF NELSON",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Harlem Nocturne",
+    "composer": "Hagen-Rogers",
+    "key": "Gmin",
+    "rhythm": "Medium Swing",
+    "time_signature": null,
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 104,
+        "scanned_title": "Harlem Nocturne",
         "match_score": 100.0
       }
     ]
@@ -2508,6 +3360,36 @@
     ]
   },
   {
+    "title": "High Hopes",
+    "composer": "Jimmy Van-Heusen",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 108,
+        "scanned_title": "High Hopes",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Hot House",
+    "composer": "Tadd Dameron",
+    "key": null,
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 113,
+        "scanned_title": "Hot House",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "House Of Jade",
     "composer": "Wayne Shorter",
     "key": "Cmin",
@@ -2524,6 +3406,36 @@
         "edition_found": 6,
         "page_number": 179,
         "scanned_title": "HOUSE OF JADE",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "How About You",
+    "composer": "Burton Lane",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 114,
+        "scanned_title": "How About You",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "How Deep Is The Ocean",
+    "composer": "Irving Berlin",
+    "key": "Eb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 115,
+        "scanned_title": "How Deep Is The Ocean",
         "match_score": 100.0
       }
     ]
@@ -2566,6 +3478,21 @@
         "edition_found": 6,
         "page_number": 181,
         "scanned_title": "HOW INSENSITIVE",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "How Long Has This Been Going On?",
+    "composer": "George Gershwin",
+    "key": "F",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 116,
+        "scanned_title": "How Long Has This Been Going On",
         "match_score": 100.0
       }
     ]
@@ -2622,6 +3549,21 @@
     ]
   },
   {
+    "title": "I Concentrate On You",
+    "composer": "Cole Porter",
+    "key": "Eb",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 118,
+        "scanned_title": "I Concentrate On You",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "I Could Write A Book",
     "composer": "Richard Rodgers",
     "key": null,
@@ -2643,6 +3585,36 @@
     ]
   },
   {
+    "title": "I Didn't Know What Time It Was",
+    "composer": "Richard Rodgers",
+    "key": "G",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 117,
+        "scanned_title": "I Didn't Know What Time It Was",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "I Fall In Love Too Easily",
+    "composer": "Jule Styne",
+    "key": "Eb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 120,
+        "scanned_title": "I Fall In Love Too Easily",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "I Got It Bad",
     "composer": "Duke Ellington",
     "key": "G",
@@ -2653,6 +3625,21 @@
         "edition_found": 5,
         "page_number": 213,
         "scanned_title": "I GOT IT BAD",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "I Left My Heart In San Francisco",
+    "composer": "George Cory",
+    "key": null,
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 121,
+        "scanned_title": "I Left My Heart In San Francisco",
         "match_score": 100.0
       }
     ]
@@ -2710,6 +3697,21 @@
         "edition_found": 6,
         "page_number": 190,
         "scanned_title": "I LOVE YOU",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "I Loves You Porgy",
+    "composer": "George Gershwin",
+    "key": "F",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 128,
+        "scanned_title": "I Loves You Porgy",
         "match_score": 100.0
       }
     ]
@@ -2793,6 +3795,66 @@
     ]
   },
   {
+    "title": "I Wish You Love",
+    "composer": "Charles Trenet",
+    "key": "Eb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 124,
+        "scanned_title": "I Wish You Love",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "I'll Be Around",
+    "composer": "Alec Wilder",
+    "key": null,
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 126,
+        "scanned_title": "I'll Be Around",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "I'll Be Seeing You",
+    "composer": "Sammy Fain",
+    "key": "Eb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 129,
+        "scanned_title": "I'll Be Seeing You",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "I'll Close My Eyes",
+    "composer": "Reid-Kaye",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 130,
+        "scanned_title": "I'll Close My Eyes",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "I'll Never Smile Again",
     "composer": "Ruth Lowe",
     "key": "Eb",
@@ -2829,6 +3891,21 @@
     ]
   },
   {
+    "title": "I'll Take Romance",
+    "composer": "Ben Oakland",
+    "key": "F",
+    "rhythm": "Waltz",
+    "time_signature": "3/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 131,
+        "scanned_title": "I'll Take Romance",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "I'm All Smiles",
     "composer": "Leonard-Martin",
     "key": "D",
@@ -2860,6 +3937,126 @@
         "edition_found": 6,
         "page_number": 200,
         "scanned_title": "I'M BEGINNING TO SEE THE LIGHT",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "I'm Glad There Is You",
+    "composer": "Jimmy Dorsey",
+    "key": "F",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 132,
+        "scanned_title": "I'm Glad There Is You",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "I'm Old Fashioned",
+    "composer": "Jerome Kern",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 133,
+        "scanned_title": "I'm Old Fashioned",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "I'm Through With Love",
+    "composer": "Kahn-Malneck-Livingston",
+    "key": "F",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 134,
+        "scanned_title": "I'm Through With Love",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "I've Got A Crush On You",
+    "composer": "George Gershwin",
+    "key": "Bb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 135,
+        "scanned_title": "I've Got A Crush On You",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "I've Got The World On A String",
+    "composer": "Harold Arlen",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 136,
+        "scanned_title": "I've Got The World On A String",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "I've Got You Under My Skin",
+    "composer": "Cole Porter",
+    "key": "Eb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 138,
+        "scanned_title": "I've Got You Under My Skin",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "I've Grown Accustomed To Her Face",
+    "composer": "Frederick Loewe",
+    "key": "Eb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 140,
+        "scanned_title": "I've Grown Accustomed To Your Face",
+        "match_score": 90.9090909090909
+      }
+    ]
+  },
+  {
+    "title": "I've Never Been In Love Before",
+    "composer": "Frank Loesser",
+    "key": "Bb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 141,
+        "scanned_title": "I've Never Been In Love Before",
         "match_score": 100.0
       }
     ]
@@ -2907,6 +4104,21 @@
     ]
   },
   {
+    "title": "In Love In Vain",
+    "composer": "Leo Robin Jerome Kern",
+    "key": "Bb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 145,
+        "scanned_title": "In Love In Vain",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "In Your Own Sweet Way",
     "composer": "Dave Brubeck",
     "key": "Eb",
@@ -2932,6 +4144,21 @@
         "edition_found": 6,
         "page_number": 212,
         "scanned_title": "THE INCH WORM",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Indian Summer",
+    "composer": " Victor-Aldubin-Herbert",
+    "key": "G",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 148,
+        "scanned_title": "Indian Summer",
         "match_score": 100.0
       }
     ]
@@ -3051,6 +4278,21 @@
     ]
   },
   {
+    "title": "Isfahan",
+    "composer": "Strayhorn-Ellington",
+    "key": "Db",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 150,
+        "scanned_title": "Isfahan",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Isn't It Romantic?",
     "composer": "Richard Rodgers",
     "key": "Eb",
@@ -3129,6 +4371,21 @@
     ]
   },
   {
+    "title": "It Never Entered My Mind",
+    "composer": "Richard Rodgers",
+    "key": "F",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 151,
+        "scanned_title": "It Never Entered My Mind",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "It's A Raggy Waltz",
     "composer": "Dave Brubeck",
     "key": "G",
@@ -3139,6 +4396,21 @@
         "edition_found": 5,
         "page_number": 242,
         "scanned_title": "IT'S A RAGGY WALTZ",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "It's All Right With Me",
+    "composer": "Cole Porter",
+    "key": "Cmin",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 152,
+        "scanned_title": "It's All Right With Me",
         "match_score": 100.0
       }
     ]
@@ -3159,6 +4431,36 @@
     ]
   },
   {
+    "title": "It's You Or No One",
+    "composer": "Jule Styne",
+    "key": "F",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 154,
+        "scanned_title": "It's You Or No One",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Jersey Bounce",
+    "composer": "Plater-Bradshaw-Johnson",
+    "key": "F",
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 156,
+        "scanned_title": "Jersey Bounce",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Jinrikisha",
     "composer": "Joe Henderson",
     "key": "Ab",
@@ -3169,6 +4471,21 @@
         "edition_found": 5,
         "page_number": 244,
         "scanned_title": "JINRIKISHA",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Jitterbug Waltz",
+    "composer": "Fats Waller",
+    "key": "Eb",
+    "rhythm": "Waltz",
+    "time_signature": "3/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 158,
+        "scanned_title": "Jitterbug Waltz",
         "match_score": 100.0
       }
     ]
@@ -3267,6 +4584,36 @@
     ]
   },
   {
+    "title": "Just One Of Those Things",
+    "composer": "Cole Porter",
+    "key": "F",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 160,
+        "scanned_title": "Just One Of Those Things",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Just Squeeze Me",
+    "composer": "Duke Ellington",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 163,
+        "scanned_title": "Just Squeeze Me",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "La Fiesta",
     "composer": "Chick Corea",
     "key": "A",
@@ -3277,6 +4624,21 @@
         "edition_found": 5,
         "page_number": 254,
         "scanned_title": "LA FIESTA",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Ladies In Mercedes",
+    "composer": "Steve Swallow",
+    "key": "G",
+    "rhythm": "Bossa Nova",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 164,
+        "scanned_title": "Ladies In Mercedes",
         "match_score": 100.0
       }
     ]
@@ -3298,6 +4660,21 @@
         "edition_found": 6,
         "page_number": 235,
         "scanned_title": "LADY BIRD",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Lady is a Tramp, The",
+    "composer": "Richard Rodgers",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 166,
+        "scanned_title": "Lady Is A Tramp, The",
         "match_score": 100.0
       }
     ]
@@ -3334,6 +4711,21 @@
         "edition_found": 6,
         "page_number": 239,
         "scanned_title": "LAMENT",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Lazy Afternoon",
+    "composer": "Latouche-Moross",
+    "key": "Amin",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 167,
+        "scanned_title": "Lazy Afternoon",
         "match_score": 100.0
       }
     ]
@@ -3417,6 +4809,21 @@
     ]
   },
   {
+    "title": "Line For Lyons",
+    "composer": "Gerry Mulligan",
+    "key": "G",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 170,
+        "scanned_title": "Line For Lyons",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Litha",
     "composer": "Chick Corea",
     "key": "D",
@@ -3453,6 +4860,21 @@
     ]
   },
   {
+    "title": "Little Girl Blue",
+    "composer": "Richard Rodgers",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 174,
+        "scanned_title": "Little Girl Blue",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Little Niles",
     "composer": "Randy Weston",
     "key": "Gmin",
@@ -3484,6 +4906,21 @@
         "edition_found": 6,
         "page_number": 250,
         "scanned_title": "LITTLE WALTZ",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Little Willie Leaps",
+    "composer": "Charlie Parker",
+    "key": "F",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 171,
+        "scanned_title": "Little Willie Leaps",
         "match_score": 100.0
       }
     ]
@@ -3552,6 +4989,21 @@
     ]
   },
   {
+    "title": "Loop, The",
+    "composer": "Chick Corea",
+    "key": "F",
+    "rhythm": "Waltz",
+    "time_signature": "3/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 178,
+        "scanned_title": "Loop, The",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Love Is The Sweetest Thing",
     "composer": "Ray Noble",
     "key": "D",
@@ -3562,6 +5014,21 @@
         "edition_found": 6,
         "page_number": 254,
         "scanned_title": "LOVE IS THE SWEETEST THING",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Love Walked In",
+    "composer": "George Gershwin",
+    "key": "Eb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 182,
+        "scanned_title": "Love Walked In",
         "match_score": 100.0
       }
     ]
@@ -3604,6 +5071,36 @@
         "edition_found": 6,
         "page_number": 256,
         "scanned_title": "LULLABY OF BIRDLAND",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Lullaby Of The Leaves",
+    "composer": "Bernice Petkere",
+    "key": "Cmin",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 184,
+        "scanned_title": "Lullaby Of The Leaves",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Lulu's Back In Town",
+    "composer": "Harry Warren",
+    "key": "Eb",
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 185,
+        "scanned_title": "Lulu's Back In Town",
         "match_score": 100.0
       }
     ]
@@ -3661,6 +5158,51 @@
         "edition_found": 6,
         "page_number": 261,
         "scanned_title": "MAIDEN VOYAGE",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Making Whoopee",
+    "composer": "Walter Donaldson",
+    "key": "G",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 186,
+        "scanned_title": "Makin' Whoopee",
+        "match_score": 96.0
+      }
+    ]
+  },
+  {
+    "title": "Manhattan",
+    "composer": "Richard Rodgers",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 189,
+        "scanned_title": "Manhattan",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Meaning Of The Blues, The",
+    "composer": "Worth-Troup",
+    "key": "Dmin",
+    "rhythm": "Even 8ths",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 192,
+        "scanned_title": "Meaning Of The Blues, The",
         "match_score": 100.0
       }
     ]
@@ -3724,6 +5266,21 @@
         "edition_found": 6,
         "page_number": 269,
         "scanned_title": "MIDNIGHT MOOD",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Midnight Sun",
+    "composer": "Hampton-Burke-Mercer",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 196,
+        "scanned_title": "Midnight Sun",
         "match_score": 100.0
       }
     ]
@@ -3855,6 +5412,21 @@
     ]
   },
   {
+    "title": "Moon And Sand",
+    "composer": "Wilder-Palitz",
+    "key": "Dmin",
+    "rhythm": "Bossa Nova",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 202,
+        "scanned_title": "Moon and Sand",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Moonchild",
     "composer": "Keith Jarrett",
     "key": "Emin",
@@ -3871,6 +5443,21 @@
         "edition_found": 6,
         "page_number": 282,
         "scanned_title": "MOONCHILD",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Moonlight In Vermont",
+    "composer": "Karl Suessdorf",
+    "key": "Eb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 199,
+        "scanned_title": "Moonlight In Vermont",
         "match_score": 100.0
       }
     ]
@@ -3901,6 +5488,21 @@
         "edition_found": 6,
         "page_number": 283,
         "scanned_title": "THE MOST BEAUTIFUL GIRL IN THE WORLD",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Mountain Greenery",
+    "composer": "Richard Rodgers",
+    "key": null,
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 204,
+        "scanned_title": "Mountain Greenery",
         "match_score": 100.0
       }
     ]
@@ -4005,6 +5607,36 @@
     ]
   },
   {
+    "title": "My Heart Stood Still",
+    "composer": "Richard Rodgers",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 208,
+        "scanned_title": "My Heart Stood Still",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "My Man's Gone Now",
+    "composer": "George Gershwin",
+    "key": "Emin",
+    "rhythm": "Waltz",
+    "time_signature": "3/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 206,
+        "scanned_title": "My Man's Gone Now",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "My One And Only Love",
     "composer": "Wood-Mellin",
     "key": null,
@@ -4043,6 +5675,21 @@
         "page_number": 289,
         "scanned_title": "MY ROMANCE",
         "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "My Secret Love",
+    "composer": "Roger Vogel",
+    "key": "Eb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 260,
+        "scanned_title": "Secret Love",
+        "match_score": 90.9090909090909
       }
     ]
   },
@@ -4161,6 +5808,21 @@
     ]
   },
   {
+    "title": "Never Let Me Go",
+    "composer": "Jay Livingston",
+    "key": "Bb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 210,
+        "scanned_title": "Never Let Me Go",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Never Will I Marry",
     "composer": "Frank Loesser",
     "key": "Bb",
@@ -4198,6 +5860,21 @@
         "edition_found": 6,
         "page_number": 299,
         "scanned_title": "NICA'S DREAM",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Nice 'n Easy",
+    "composer": "Spence-Bergman-Keith",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 211,
+        "scanned_title": "Nice 'N Easy",
         "match_score": 100.0
       }
     ]
@@ -4260,6 +5937,36 @@
     ]
   },
   {
+    "title": "Night We Called It A Day, The",
+    "composer": "Matt Dennis",
+    "key": "G",
+    "rhythm": "Slow Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 212,
+        "scanned_title": "N nt We Called It A Day, The",
+        "match_score": 90.47619047619048
+      }
+    ]
+  },
+  {
+    "title": "Nobody Else But Me",
+    "composer": "Jerome Kern",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 214,
+        "scanned_title": "Nobody Eise But Me",
+        "match_score": 93.33333333333333
+      }
+    ]
+  },
+  {
     "title": "Nobody Knows You When You're Down And Out",
     "composer": "Jimmy Cox",
     "key": "F",
@@ -4311,6 +6018,21 @@
     ]
   },
   {
+    "title": "Old Folks",
+    "composer": "Willard Robison",
+    "key": "F",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 218,
+        "scanned_title": "Old Folks",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Oleo",
     "composer": "Sonny Rollins",
     "key": "Bb",
@@ -4347,6 +6069,21 @@
     ]
   },
   {
+    "title": "On A Clear Day",
+    "composer": "Burton Lane",
+    "key": "G",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 219,
+        "scanned_title": "On A Clear Day",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "On Green Dolphin Street",
     "composer": "Bronislau Kaper",
     "key": "Eb",
@@ -4358,6 +6095,21 @@
         "page_number": 179,
         "scanned_title": "GREEN DOLPHIN STREET",
         "match_score": 94.73684210526316
+      }
+    ]
+  },
+  {
+    "title": "On The Street Where You Live",
+    "composer": "Frederick Loewe",
+    "key": "Bb",
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 222,
+        "scanned_title": "On The Street Where You Live",
+        "match_score": 100.0
       }
     ]
   },
@@ -4461,6 +6213,21 @@
     ]
   },
   {
+    "title": "Our Delight",
+    "composer": "Tad Dameron",
+    "key": "Ab",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 228,
+        "scanned_title": "Our Delight",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Out Of Nowhere",
     "composer": "Johnny Green",
     "key": "G",
@@ -4477,6 +6244,21 @@
         "edition_found": 6,
         "page_number": 318,
         "scanned_title": "OUT OF NOWHERE",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Out Of This World",
+    "composer": "Harold Arlen",
+    "key": "Eb",
+    "rhythm": "Latin",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 226,
+        "scanned_title": "Out Of This World",
         "match_score": 100.0
       }
     ]
@@ -4507,6 +6289,21 @@
         "edition_found": 6,
         "page_number": 319,
         "scanned_title": "PAPER DOLL",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Party's Over, The",
+    "composer": "Styne-Comden-Green",
+    "key": "Eb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 231,
+        "scanned_title": "Party's Over, The",
         "match_score": 100.0
       }
     ]
@@ -4543,6 +6340,21 @@
         "edition_found": 6,
         "page_number": 321,
         "scanned_title": "PASSION FLOWER",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Passport",
+    "composer": "Charlie Parker",
+    "key": "Bb",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 234,
+        "scanned_title": "Passport",
         "match_score": 100.0
       }
     ]
@@ -4656,6 +6468,36 @@
     ]
   },
   {
+    "title": "People",
+    "composer": "Jule Styne",
+    "key": "Bb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 236,
+        "scanned_title": "People",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Perhaps",
+    "composer": "Charlie Parker",
+    "key": null,
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 238,
+        "scanned_title": "Perhaps",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Peri's Scope",
     "composer": "Bill Evans",
     "key": null,
@@ -4734,6 +6576,36 @@
     ]
   },
   {
+    "title": "Poinciana",
+    "composer": "Nat Simon",
+    "key": "D",
+    "rhythm": "Latin",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 240,
+        "scanned_title": "Poinciana",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Poor Butterfly",
+    "composer": "Raymon Hubbell",
+    "key": "Ab",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 242,
+        "scanned_title": "Poor Butterfly",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Prelude To A Kiss",
     "composer": "Duke Ellington",
     "key": null,
@@ -4776,6 +6648,36 @@
     ]
   },
   {
+    "title": "Prism",
+    "composer": "Keith Jarrett",
+    "key": "Gmin",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 244,
+        "scanned_title": "Prism",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Pure Imagination",
+    "composer": "Anthony Newley",
+    "key": "Eb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 245,
+        "scanned_title": "Pure Imagination",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Quiet Now",
     "composer": "Denny Zeitlin",
     "key": null,
@@ -4792,6 +6694,21 @@
         "edition_found": 6,
         "page_number": 336,
         "scanned_title": "QUIET NOW",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Re: Person I Knew",
+    "composer": "Bill Evans",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 248,
+        "scanned_title": "Re PersonI Knew",
         "match_score": 100.0
       }
     ]
@@ -4875,6 +6792,21 @@
     ]
   },
   {
+    "title": "Relaxin' At Camarillo",
+    "composer": "Charlie Parker",
+    "key": null,
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 249,
+        "scanned_title": "Relaxin' At Carmarillo",
+        "match_score": 97.2972972972973
+      }
+    ]
+  },
+  {
     "title": "Road Song",
     "composer": "Wes Montgomery",
     "key": "Gmin",
@@ -4885,6 +6817,21 @@
         "edition_found": 6,
         "page_number": 344,
         "scanned_title": "ROAD SONG",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Room 608",
+    "composer": "Horace Silver",
+    "key": "Bb",
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 252,
+        "scanned_title": "Room 608",
         "match_score": 100.0
       }
     ]
@@ -4942,6 +6889,21 @@
         "edition_found": 6,
         "page_number": 348,
         "scanned_title": "THE SAGA OF HARRISON CRABFEATHERS",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Samba De Orfeu",
+    "composer": "Luiz Bonfa",
+    "key": null,
+    "rhythm": "Bossa Nova",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 254,
+        "scanned_title": "Samba De Orfeu",
         "match_score": 100.0
       }
     ]
@@ -5031,6 +6993,21 @@
     ]
   },
   {
+    "title": "Secret Love",
+    "composer": "Sammy Fain",
+    "key": "Eb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 260,
+        "scanned_title": "Secret Love",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Serenade To A Cuckoo",
     "composer": "Roland Kirk",
     "key": "Fmin",
@@ -5041,6 +7018,21 @@
         "edition_found": 5,
         "page_number": 377,
         "scanned_title": "SERENADE TO A CUCKOO",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Serpent's Tooth",
+    "composer": "Miles Davis",
+    "key": "Bb",
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 263,
+        "scanned_title": "Serpent's Tooth",
         "match_score": 100.0
       }
     ]
@@ -5103,6 +7095,21 @@
     ]
   },
   {
+    "title": "Shaw 'Nuff",
+    "composer": "Charlie Parker",
+    "key": "Bb",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 264,
+        "scanned_title": "Shaw Nuff",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Sidewinder",
     "composer": "Lee Morgan",
     "key": "Eb",
@@ -5140,6 +7147,36 @@
         "edition_found": 6,
         "page_number": 360,
         "scanned_title": "SKATING IN CENTRAL PARK",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Skylark",
+    "composer": "Hoagy Carmichael",
+    "key": "Eb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 267,
+        "scanned_title": "Skylark",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "So In Love",
+    "composer": "Cole Porter",
+    "key": "Fmin",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 270,
+        "scanned_title": "So In Love",
         "match_score": 100.0
       }
     ]
@@ -5352,6 +7389,36 @@
     ]
   },
   {
+    "title": "Sonnymoon For Two",
+    "composer": "Sonny Rollins",
+    "key": "Bb",
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 276,
+        "scanned_title": "Sonnymoon For Two",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Soon",
+    "composer": "George Gershwin",
+    "key": "Eb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 277,
+        "scanned_title": "Soon",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Sophisticated Lady",
     "composer": "Duke Ellington",
     "key": "Ab",
@@ -5415,6 +7482,21 @@
     ]
   },
   {
+    "title": "Spring Can Really Hang You Up The Most",
+    "composer": "Tommy Wolf",
+    "key": null,
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 280,
+        "scanned_title": "Spring Can Really Hang You Up The Most",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Spring Is Here",
     "composer": "Richard Rodgers",
     "key": "Ab",
@@ -5425,6 +7507,36 @@
         "edition_found": 5,
         "page_number": 406,
         "scanned_title": "SPRING IS HERE",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Stablemates",
+    "composer": "Benny Golson",
+    "key": "Db",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 283,
+        "scanned_title": "Stablemates",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Star Eyes",
+    "composer": "Gene DePaul",
+    "key": "Eb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 284,
+        "scanned_title": "Star Eyes",
         "match_score": 100.0
       }
     ]
@@ -5446,6 +7558,21 @@
         "edition_found": 6,
         "page_number": 381,
         "scanned_title": "THE STAR-CROSSED LOVERS",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Stars Fell On Alabama",
+    "composer": "Frank Perkins",
+    "key": null,
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 285,
+        "scanned_title": "Stars Fell On Alabama",
         "match_score": 100.0
       }
     ]
@@ -5514,6 +7641,21 @@
     ]
   },
   {
+    "title": "Stormy Weather",
+    "composer": "Harold Arlen",
+    "key": "G",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 287,
+        "scanned_title": "StormyWeather",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Straight No Chaser",
     "composer": "Thelonious Monk",
     "key": "Bb",
@@ -5535,6 +7677,21 @@
     ]
   },
   {
+    "title": "Street Of Dreams",
+    "composer": "Victor Young",
+    "key": "Eb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 288,
+        "scanned_title": "Street Of Dreams",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Sugar",
     "composer": "Stanley Turrentine",
     "key": "Cmin",
@@ -5551,6 +7708,21 @@
         "edition_found": 6,
         "page_number": 387,
         "scanned_title": "SUGAR",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Sunny",
+    "composer": "Bobby Hebb",
+    "key": "Amin",
+    "rhythm": "Rock Pop",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 289,
+        "scanned_title": "Sunny",
         "match_score": 100.0
       }
     ]
@@ -5587,6 +7759,21 @@
         "edition_found": 6,
         "page_number": 395,
         "scanned_title": "SWEET GEORGIA BRIGHT",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Sweet Lorraine",
+    "composer": "Cliff Burwell",
+    "key": "G",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 291,
+        "scanned_title": "Sweet Lorraine",
         "match_score": 100.0
       }
     ]
@@ -5634,6 +7821,36 @@
     ]
   },
   {
+    "title": "Tea For Two",
+    "composer": "Vincent Youmans",
+    "key": "Ab",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 298,
+        "scanned_title": "Tea For Two",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Teach Me Tonight",
+    "composer": "Gene DePaul",
+    "key": "Eb",
+    "rhythm": "Slow Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 297,
+        "scanned_title": "Teach Me Tonight",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Tell Me A Bedtime Story",
     "composer": "Herbie Hancock",
     "key": null,
@@ -5665,6 +7882,36 @@
         "edition_found": 6,
         "page_number": 399,
         "scanned_title": "THANKS FOR THE MEMORY",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "That Old Feeling",
+    "composer": "Brown-Fain",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 300,
+        "scanned_title": "That Old Feeling",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "That's All",
+    "composer": "Haymes-Brandt",
+    "key": "Bb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 301,
+        "scanned_title": "That's All",
         "match_score": 100.0
       }
     ]
@@ -5757,6 +8004,51 @@
     ]
   },
   {
+    "title": "They Say It's Wonderful",
+    "composer": "Irving Berlin",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 306,
+        "scanned_title": "They Say Its Wonderful",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Things Ain't What They Used To Be",
+    "composer": "Duke Ellington",
+    "key": "Db",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 308,
+        "scanned_title": "Things Ain't What They Used To Be",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "This Can't Be Love",
+    "composer": "Richard Rodgers",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 309,
+        "scanned_title": "This Can't Be Love",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Thou Swell",
     "composer": "Richard Rodgers",
     "key": "Eb",
@@ -5793,6 +8085,21 @@
     ]
   },
   {
+    "title": "Thrill Is Gone, The",
+    "composer": "Ray Henderson",
+    "key": "Cmin",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 311,
+        "scanned_title": "Thrill Is Gone,The",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Time Remembered",
     "composer": "Bill Evans",
     "key": "Bmin",
@@ -5809,6 +8116,21 @@
         "edition_found": 6,
         "page_number": 413,
         "scanned_title": "TIME REMEMBERED",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Tiny Capers",
+    "composer": "Clifford Brown",
+    "key": "Bb",
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 319,
+        "scanned_title": "Tiny Capers",
         "match_score": 100.0
       }
     ]
@@ -5835,6 +8157,36 @@
     ]
   },
   {
+    "title": "Too Close For Comfort",
+    "composer": "Bock-Weiss-Holofcener",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 322,
+        "scanned_title": "Too Close For Comfort",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Too Marvelous For Words",
+    "composer": "Richard Whiting",
+    "key": "G",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 323,
+        "scanned_title": "Too Marvelous For Words",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Topsy",
     "composer": "Battle-Durham",
     "key": "Dmin",
@@ -5845,6 +8197,21 @@
         "edition_found": 6,
         "page_number": 415,
         "scanned_title": "TOPSY",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Touch Of Your Lips, The",
+    "composer": "Ray Noble",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 324,
+        "scanned_title": "Touch Of Your Lips, The",
         "match_score": 100.0
       }
     ]
@@ -5861,6 +8228,21 @@
         "page_number": 416,
         "scanned_title": "TOUR DE FORCE",
         "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Tricotism",
+    "composer": "Oscar Pettiford",
+    "key": "Db",
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 325,
+        "scanned_title": "Tricrotism",
+        "match_score": 94.73684210526316
       }
     ]
   },
@@ -5938,6 +8320,21 @@
         "edition_found": 6,
         "page_number": 420,
         "scanned_title": "TWISTED BLUES",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Unforgettable",
+    "composer": "Gordon Irving",
+    "key": "G",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 328,
+        "scanned_title": "Unforgettable",
         "match_score": 100.0
       }
     ]
@@ -6036,6 +8433,36 @@
     ]
   },
   {
+    "title": "Very Thought Of You, The",
+    "composer": "Ray Noble",
+    "key": "Ab",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 329,
+        "scanned_title": "Very Thought Of You, The",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Violets For Your Furs",
+    "composer": "Adair-Dennis",
+    "key": "F",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 330,
+        "scanned_title": "Violets For Your Furs",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Virgo",
     "composer": "Wayne Shorter",
     "key": "F",
@@ -6109,6 +8536,36 @@
         "edition_found": 6,
         "page_number": 432,
         "scanned_title": "WALTZ FOR DEBBY",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Watch What Happens",
+    "composer": "Michel Legrand",
+    "key": "Eb",
+    "rhythm": "Bossa Nova",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 333,
+        "scanned_title": "Watch What Happens",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Watermelon Man",
+    "composer": "Herbie Hancock",
+    "key": "F",
+    "rhythm": "Even 8ths",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 334,
+        "scanned_title": "Watermelon Man",
         "match_score": 100.0
       }
     ]
@@ -6192,6 +8649,21 @@
     ]
   },
   {
+    "title": "What A Difference A Day Made",
+    "composer": "Maria Grever",
+    "key": "F",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 335,
+        "scanned_title": "What A Difference A Day Made",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "What Are You Doing The Rest Of Your Life?",
     "composer": "Michel Legrand",
     "key": "Amin",
@@ -6264,6 +8736,21 @@
     ]
   },
   {
+    "title": "When The Sun Comes Out",
+    "composer": "Harold Arlen",
+    "key": "G",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 339,
+        "scanned_title": "When The Sun Comes Out",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "When You Wish Upon A Star",
     "composer": "Leigh Harline",
     "key": null,
@@ -6279,6 +8766,21 @@
     ]
   },
   {
+    "title": "When Your Lover Has Gone",
+    "composer": "E.A. Swan",
+    "key": "G",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 340,
+        "scanned_title": "When Your Lover Has Gone",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Where Are You?",
     "composer": "Jimmy McHugh",
     "key": "G",
@@ -6289,6 +8791,51 @@
         "edition_found": 5,
         "page_number": 463,
         "scanned_title": "WHERE ARE YOU",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Where Or When",
+    "composer": "Richard Rodgers",
+    "key": "Eb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 341,
+        "scanned_title": "Where OrWhen",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "While We're Young",
+    "composer": "Wilder-Palitz",
+    "key": "Eb",
+    "rhythm": "Waltz",
+    "time_signature": "3/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 342,
+        "scanned_title": "While We're Young",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Who Can I Turn To",
+    "composer": "Newley-Bricusse",
+    "key": "Eb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 343,
+        "scanned_title": "Who Can I Turn To",
         "match_score": 100.0
       }
     ]
@@ -6310,6 +8857,21 @@
         "edition_found": 6,
         "page_number": 444,
         "scanned_title": "WILD FLOWER",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Will You Still Be Mine?",
+    "composer": "Matt Dennis",
+    "key": "Eb",
+    "rhythm": "Up Tempo Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 345,
+        "scanned_title": "Will You Still Be Mine",
         "match_score": 100.0
       }
     ]
@@ -6357,6 +8919,21 @@
     ]
   },
   {
+    "title": "Witchcraft",
+    "composer": "Cy Coleman",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 346,
+        "scanned_title": "Witchcraft",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Woody'n You",
     "composer": "Dizzy Gillespie",
     "key": "Db",
@@ -6373,6 +8950,21 @@
         "edition_found": 6,
         "page_number": 450,
         "scanned_title": "WOODYN\u2019YOU",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Wrap Your Troubles In Dreams",
+    "composer": "Harry Barris",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 348,
+        "scanned_title": "Wrap Your Troubles In Dreams",
         "match_score": 100.0
       }
     ]
@@ -6462,6 +9054,21 @@
     ]
   },
   {
+    "title": "You Do Something To Me",
+    "composer": "Cole Porter",
+    "key": "Eb",
+    "rhythm": "Medium Up Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 350,
+        "scanned_title": "You Do Something To Me",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "You Don't Know What Love Is",
     "composer": "Raye-DePaul",
     "key": "Fmin",
@@ -6478,6 +9085,51 @@
         "edition_found": 6,
         "page_number": 459,
         "scanned_title": "YOU DON'T KNOW WHAT LOVE IS",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "You Go To My Head",
+    "composer": "Fred Coots",
+    "key": "Eb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 352,
+        "scanned_title": "You Go To My Head",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "You Make Me Feel So Young",
+    "composer": "Josef Myrow",
+    "key": "Bb",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 351,
+        "scanned_title": "You Make Me Feel So Young",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "You Must Believe In Spring",
+    "composer": "Michel Legrand",
+    "key": "Cmin",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 354,
+        "scanned_title": "You Must Believe In Spring",
         "match_score": 100.0
       }
     ]
@@ -6504,6 +9156,36 @@
     ]
   },
   {
+    "title": "You're Everything",
+    "composer": "Chick Corea",
+    "key": "A",
+    "rhythm": "Bossa Nova",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 356,
+        "scanned_title": "You're Everything",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "You're My Everything",
+    "composer": "Harry Warren",
+    "key": null,
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 356,
+        "scanned_title": "You're Everything",
+        "match_score": 93.75
+      }
+    ]
+  },
+  {
     "title": "You're Nobody Till Somebody Loves You",
     "composer": "Morgan-Stock-Cavanaugh",
     "key": "Eb",
@@ -6519,6 +9201,21 @@
     ]
   },
   {
+    "title": "You've Changed",
+    "composer": "Carl Fisher",
+    "key": "Eb",
+    "rhythm": "Ballad",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 355,
+        "scanned_title": "You've Changed",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
     "title": "Young At Heart",
     "composer": "Johnny Richards",
     "key": "Bb",
@@ -6530,6 +9227,1701 @@
         "page_number": 461,
         "scanned_title": "YOUNG AT HEART",
         "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Yours Is My Heart Alone",
+    "composer": "Franz Lehar",
+    "key": "F",
+    "rhythm": "Medium Swing",
+    "time_signature": "4/4",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 359,
+        "scanned_title": "Yours Is My Heart Alone",
+        "match_score": 100.0
+      }
+    ]
+  },
+  {
+    "title": "Alanjuneally",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 6,
+        "scanned_title": "Alanjuneally",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Angela",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 9,
+        "scanned_title": "Angela",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Autumn In 3",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 12,
+        "scanned_title": "Autumn In 3",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Avalon Place",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 14,
+        "scanned_title": "Avalon Place",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Ballad For Anita",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 15,
+        "scanned_title": "Ballad For Anita",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Ballad For Trane",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 16,
+        "scanned_title": "Ballad For Trane",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Beside Myself",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 20,
+        "scanned_title": "Beside Myself",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Beyond The Bluebird",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 27,
+        "scanned_title": "Beyond The Bluebird",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Bluebird",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 29,
+        "scanned_title": "Bluebird",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Blues Backstage",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 30,
+        "scanned_title": "Blues Backstage",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Bop Boy",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 34,
+        "scanned_title": "Bop Boy",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Bop Shop",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 32,
+        "scanned_title": "Bop Shop",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Bossa Rokka",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 36,
+        "scanned_title": "Bossa Rokka",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Bud's Blues",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 40,
+        "scanned_title": "Bud's Blues",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Busch-Wacked",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 41,
+        "scanned_title": "Busch-Wacked",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Buzzy",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 42,
+        "scanned_title": "Buzzy",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Careful",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 45,
+        "scanned_title": "Careful",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Chariots",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 49,
+        "scanned_title": "Chariots",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Compensation",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 55,
+        "scanned_title": "Compensation",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Cool Eyes",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 56,
+        "scanned_title": "Cool Eyes",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Dacapolypso",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 60,
+        "scanned_title": "Dacapolypso",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Don't Ask Why",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 66,
+        "scanned_title": "Don't Ask Why",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Don't Ever Go Away",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 67,
+        "scanned_title": "Don't Ever Go Away",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Don't Look Back",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 68,
+        "scanned_title": "Don't Look Back",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Double Clutching",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 70,
+        "scanned_title": "Double Clutching",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Emanon",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 73,
+        "scanned_title": "Emanon",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Endlessly",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 76,
+        "scanned_title": "Endlessly",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Father",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 84,
+        "scanned_title": "Father",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "French Waltz",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 89,
+        "scanned_title": "French Waltz",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "From Now On",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 91,
+        "scanned_title": "From Now On",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "From the Heart ",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 92,
+        "scanned_title": "From the Heart ",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Full Moon and Empty Arms",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 95,
+        "scanned_title": "Full Moon and Empty Arms",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Gaviota",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 98,
+        "scanned_title": "Gaviota",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Gnu Blu",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 97,
+        "scanned_title": "Gnu Blu",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Heartsong",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 106,
+        "scanned_title": "Heartsong",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "High Wire The Aerialist",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 110,
+        "scanned_title": "High Wire The Aerialist",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "I Need You Here",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 122,
+        "scanned_title": "I Need You Here",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Ill Wind",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 142,
+        "scanned_title": "Ill Wind",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "In A Capricornian Way",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 143,
+        "scanned_title": "In A Capricornian Way",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "In Her Family",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 144,
+        "scanned_title": "In Her Family",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "In the Days of Our Love",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 146,
+        "scanned_title": "In the Days of Our Love",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Irv's At Midnight",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 149,
+        "scanned_title": "Irv's At Midnight",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Japanese Waltz, A",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 155,
+        "scanned_title": "Japanese Waltz, A",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Jive Samba",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 157,
+        "scanned_title": "Jive Samba",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Julian",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 162,
+        "scanned_title": "Julian",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Leap Of Faith",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 168,
+        "scanned_title": "Leap Of Faith",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Little Face [Tab_]",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 172,
+        "scanned_title": "Little Face [Tab_]",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Long View, The",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 176,
+        "scanned_title": "Long View, The",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Lotus On Irish Streams, A",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 179,
+        "scanned_title": "Lotus On Irish Streams, A",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Loud-Zee",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 180,
+        "scanned_title": "Loud-Zee",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Lovers Rain Dance",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 181,
+        "scanned_title": "Lovers Rain Dance",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Mandala",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 188,
+        "scanned_title": "Mandala",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Matrix",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 190,
+        "scanned_title": "Matrix",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Mayreh",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 191,
+        "scanned_title": "Mayreh",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Mi Boj A Samba",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 194,
+        "scanned_title": "Mi Boj A Samba",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Milestones",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 193,
+        "scanned_title": "Milestones",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Moment To Moment",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 198,
+        "scanned_title": "Moment To Moment",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Monster & The Flower, The",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 200,
+        "scanned_title": "Monster & The Flower, The",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Muezzin'",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 205,
+        "scanned_title": "Muezzin'",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Neal's Blues",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 209,
+        "scanned_title": "Neal's Blues",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Now He Beats The Drum-Now He Stops",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 215,
+        "scanned_title": "Now He Beats The Drum-Now He Stops",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Now He Sings, Now he Sobs",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 216,
+        "scanned_title": "Now He Sings, Now he Sobs",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Number 6",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 217,
+        "scanned_title": "Number 6",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "On The Sly",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 220,
+        "scanned_title": "On The Sly",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Only You Know",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 224,
+        "scanned_title": "Only You Know",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Over The Rainbow",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 229,
+        "scanned_title": "Over The Rainbow",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Ow!",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 230,
+        "scanned_title": "Ow!",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Panhandle Hook",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 232,
+        "scanned_title": "Panhandle Hook",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Patz Blues",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 235,
+        "scanned_title": "Patz Blues",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Picadilly Lilly",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 239,
+        "scanned_title": "Picadilly Lilly",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Point Of Return",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 241,
+        "scanned_title": "Point Of Return",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Rahsaan's Run",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 246,
+        "scanned_title": "Rahsaan's Run",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Re-Re",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 247,
+        "scanned_title": "Re-Re",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Rosewood",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 250,
+        "scanned_title": "Rosewood",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Saint Thomas",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 253,
+        "scanned_title": "Saint Thomas",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Sambacide",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 258,
+        "scanned_title": "Sambacide",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Santurce",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 256,
+        "scanned_title": "Santurce",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Seabrook Revisited",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 259,
+        "scanned_title": "Seabrook Revisited",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Seems To Me",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 262,
+        "scanned_title": "Seems To Me",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Sister Sadie",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 266,
+        "scanned_title": "Sister Sadie",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Some Nerve",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 272,
+        "scanned_title": "Some Nerve",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Something From Everyone",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 273,
+        "scanned_title": "Something From Everyone",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Song For Sisyphus",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 274,
+        "scanned_title": "Song For Sisyphus",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Spirit Samba",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 278,
+        "scanned_title": "Spirit Samba",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Squirrel",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 282,
+        "scanned_title": "Squirrel",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Steeple Chase",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 286,
+        "scanned_title": "Steeple Chase",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Sunny Side Of The Street",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 290,
+        "scanned_title": "Sunny Side Of The Street",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Swing Dentz Swing",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 292,
+        "scanned_title": "Swing Dentz Swing",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Swing Shift",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 294,
+        "scanned_title": "Swing Shift",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Sy Clone",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 295,
+        "scanned_title": "Sy Clone",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "TJRC",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 296,
+        "scanned_title": "TJRC",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Theme From Maxine",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 302,
+        "scanned_title": "Theme From Maxine",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Then I'll Be Tired Of You",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 303,
+        "scanned_title": "Then I'll Be Tired Of You",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "There Goes My Heart",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 304,
+        "scanned_title": "There Goes My Heart",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Their's Tears",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 307,
+        "scanned_title": "Their's Tears",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Three And One",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 310,
+        "scanned_title": "Three And One",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Thyme's Time",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 312,
+        "scanned_title": "Thyme's Time",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Tidal Breeze",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 314,
+        "scanned_title": "Tidal Breeze",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Time Was",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 318,
+        "scanned_title": "Time Was",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Times Lie",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 316,
+        "scanned_title": "Times Lie",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Tis'",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 320,
+        "scanned_title": "Tis'",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "To Kill A Brick",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 321,
+        "scanned_title": "To Kill A Brick",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Tune 88",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 326,
+        "scanned_title": "Tune 88",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Un Poco Loco",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 327,
+        "scanned_title": "Un Poco Loco",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Wail",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 331,
+        "scanned_title": "Wail",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Wall-Eye Blues",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 332,
+        "scanned_title": "Wall-Eye Blues",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Wes Side Stroll",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 336,
+        "scanned_title": "Wes Side Stroll",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "What Kind Of Fool Am I",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 338,
+        "scanned_title": "What Kind Of Fool Am I",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Why Did I Choose You",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 344,
+        "scanned_title": "Why Did I Choose You",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "With Every Breath I Take",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 347,
+        "scanned_title": "With Every Breath I Take",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "You & The Night & The Music",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 349,
+        "scanned_title": "You & The Night & The Music",
+        "match_score": 100
+      }
+    ]
+  },
+  {
+    "title": "Younger Than Springtime",
+    "composer": "No Metadata",
+    "key": null,
+    "rhythm": "No Metadata",
+    "time_signature": "No Metadata",
+    "found": [
+      {
+        "edition_found": 3,
+        "page_number": 358,
+        "scanned_title": "Younger Than Springtime",
+        "match_score": 100
       }
     ]
   },
@@ -7460,7 +11852,7 @@
       },
       {
         "edition_found": 6,
-        "page_number": 153,
+        "page_number": 156,
         "scanned_title": "GEMINI",
         "match_score": 100
       }
@@ -9903,3 +14295,4 @@
     ]
   }
 ]
+

@@ -4,6 +4,8 @@
       <nav class="flex space-x-4 items-center">
         <router-link to="/">Home</router-link>
         <span>|</span>
+        <router-link :to="{ name: 'SongIndex', params: { edition: 3 } }">Edition 3 Index</router-link>
+        <span>|</span>
         <router-link :to="{ name: 'SongIndex', params: { edition: 5 } }">Edition 5 Index</router-link>
         <span>|</span>
         <router-link :to="{ name: 'SongIndex', params: { edition: 6 } }">Edition 6 Index</router-link>

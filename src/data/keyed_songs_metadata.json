@@ -1,4 +1,2050 @@
 {
+  "3": [
+    {
+      "title": "After You",
+      "scanned_title": "After You",
+      "composer": "Cole Porter",
+      "page_number": 1,
+      "key": null
+    },
+    {
+      "title": "After You've Gone",
+      "scanned_title": "After You've Gone",
+      "composer": "Henry Creamer",
+      "page_number": 2,
+      "key": "Bb"
+    },
+    {
+      "title": "Ain't Misbehavin'",
+      "scanned_title": "Ain't Misbehavin'",
+      "composer": "Fats Waller",
+      "page_number": 3,
+      "key": null
+    },
+    {
+      "title": "All Or Nothing At All",
+      "scanned_title": "All Or Nothing At All",
+      "composer": "Arthur Altman",
+      "page_number": 4,
+      "key": "Amin"
+    },
+    {
+      "title": "Alanjuneally",
+      "scanned_title": "Alanjuneally",
+      "composer": "No Metadata",
+      "page_number": 6,
+      "key": null
+    },
+    {
+      "title": "Along Came Betty",
+      "scanned_title": "Along Came Betty",
+      "composer": "Benny Golson",
+      "page_number": 7,
+      "key": "Ab"
+    },
+    {
+      "title": "Always And Forever",
+      "scanned_title": "Always And Forever",
+      "composer": "Pat Metheny",
+      "page_number": 8,
+      "key": "Amin"
+    },
+    {
+      "title": "Angela",
+      "scanned_title": "Angela",
+      "composer": "No Metadata",
+      "page_number": 9,
+      "key": null
+    },
+    {
+      "title": "Armando's Rhumba",
+      "scanned_title": "Armando's Rhumba",
+      "composer": "Chick Corea",
+      "page_number": 10,
+      "key": "Cmin"
+    },
+    {
+      "title": "Autumn In 3",
+      "scanned_title": "Autumn In 3",
+      "composer": "No Metadata",
+      "page_number": 12,
+      "key": null
+    },
+    {
+      "title": "Autumn Nocturne",
+      "scanned_title": "Autumn Nocturne",
+      "composer": "Gannon-Myrow",
+      "page_number": 13,
+      "key": null
+    },
+    {
+      "title": "Avalon Place",
+      "scanned_title": "Avalon Place",
+      "composer": "No Metadata",
+      "page_number": 14,
+      "key": null
+    },
+    {
+      "title": "Ballad For Anita",
+      "scanned_title": "Ballad For Anita",
+      "composer": "No Metadata",
+      "page_number": 15,
+      "key": null
+    },
+    {
+      "title": "Ballad For Trane",
+      "scanned_title": "Ballad For Trane",
+      "composer": "No Metadata",
+      "page_number": 16,
+      "key": null
+    },
+    {
+      "title": "A Beautiful Friendship",
+      "scanned_title": "Beautiful Friendship",
+      "composer": "Donald Kahn",
+      "page_number": 17,
+      "key": null
+    },
+    {
+      "title": "Be My Love",
+      "scanned_title": "Be My Love",
+      "composer": "Nikolaus Brodszky",
+      "page_number": 18,
+      "key": "G"
+    },
+    {
+      "title": "Beside Myself",
+      "scanned_title": "Beside Myself",
+      "composer": "No Metadata",
+      "page_number": 20,
+      "key": null
+    },
+    {
+      "title": "Bess You Is My Woman",
+      "scanned_title": "Bess, You Is My Woman Now",
+      "composer": "George Gershwin",
+      "page_number": 22,
+      "key": "Bb"
+    },
+    {
+      "title": "Bernie's Tune",
+      "scanned_title": "Berrie's Tune",
+      "composer": "Bernie Miller",
+      "page_number": 24,
+      "key": "Dmin"
+    },
+    {
+      "title": "Best Thing For You Is Me, The",
+      "scanned_title": "Best Thing For You Is Me",
+      "composer": "Irving Berlin",
+      "page_number": 25,
+      "key": null
+    },
+    {
+      "title": "Better Git It In Your Soul",
+      "scanned_title": "Better Git It In Your Soul",
+      "composer": "Charles Mingus",
+      "page_number": 26,
+      "key": "F"
+    },
+    {
+      "title": "Beyond The Bluebird",
+      "scanned_title": "Beyond The Bluebird",
+      "composer": "No Metadata",
+      "page_number": 27,
+      "key": null
+    },
+    {
+      "title": "Blue Daniel",
+      "scanned_title": "Blue Daniel",
+      "composer": "Frank Rosolino",
+      "page_number": 28,
+      "key": "D"
+    },
+    {
+      "title": "Bluebird",
+      "scanned_title": "Bluebird",
+      "composer": "No Metadata",
+      "page_number": 29,
+      "key": null
+    },
+    {
+      "title": "Blues Backstage",
+      "scanned_title": "Blues Backstage",
+      "composer": "No Metadata",
+      "page_number": 30,
+      "key": null
+    },
+    {
+      "title": "Bolivia",
+      "scanned_title": "Bolivia",
+      "composer": "Cedar Walton",
+      "page_number": 31,
+      "key": "D"
+    },
+    {
+      "title": "Bop Shop",
+      "scanned_title": "Bop Shop",
+      "composer": "No Metadata",
+      "page_number": 32,
+      "key": null
+    },
+    {
+      "title": "Bop Boy",
+      "scanned_title": "Bop Boy",
+      "composer": "No Metadata",
+      "page_number": 34,
+      "key": null
+    },
+    {
+      "title": "Born To Be Blue",
+      "scanned_title": "Born To Be Blue",
+      "composer": "Wells-Torme",
+      "page_number": 35,
+      "key": null
+    },
+    {
+      "title": "Bossa Rokka",
+      "scanned_title": "Bossa Rokka",
+      "composer": "No Metadata",
+      "page_number": 36,
+      "key": null
+    },
+    {
+      "title": "Boy Next Door, The",
+      "scanned_title": "Boy Next Door, The",
+      "composer": "Martin-Blane",
+      "page_number": 37,
+      "key": null
+    },
+    {
+      "title": "Bud Powell",
+      "scanned_title": "Bud Powell",
+      "composer": "Chick Corea",
+      "page_number": 38,
+      "key": "F"
+    },
+    {
+      "title": "Bud's Blues",
+      "scanned_title": "Bud's Blues",
+      "composer": "No Metadata",
+      "page_number": 40,
+      "key": null
+    },
+    {
+      "title": "Busch-Wacked",
+      "scanned_title": "Busch-Wacked",
+      "composer": "No Metadata",
+      "page_number": 41,
+      "key": null
+    },
+    {
+      "title": "Buzzy",
+      "scanned_title": "Buzzy",
+      "composer": "No Metadata",
+      "page_number": 42,
+      "key": null
+    },
+    {
+      "title": "By Myself",
+      "scanned_title": "By Myself",
+      "composer": "Arthur Schwartz",
+      "page_number": 43,
+      "key": "F"
+    },
+    {
+      "title": "Bye Bye Baby",
+      "scanned_title": "Bye Bye Baby",
+      "composer": "Jule Styne",
+      "page_number": 44,
+      "key": "Bb"
+    },
+    {
+      "title": "Careful",
+      "scanned_title": "Careful",
+      "composer": "No Metadata",
+      "page_number": 45,
+      "key": null
+    },
+    {
+      "title": "Celia",
+      "scanned_title": "Celia",
+      "composer": "Bud Powell",
+      "page_number": 46,
+      "key": "Bb"
+    },
+    {
+      "title": "A Certain Smile",
+      "scanned_title": "Certain Smile, A",
+      "composer": "Fain-Webster",
+      "page_number": 48,
+      "key": "F"
+    },
+    {
+      "title": "Chariots",
+      "scanned_title": "Chariots",
+      "composer": "No Metadata",
+      "page_number": 49,
+      "key": null
+    },
+    {
+      "title": "Cheek To Cheek",
+      "scanned_title": "Cheek To Cheek",
+      "composer": "Irving Berlin",
+      "page_number": 50,
+      "key": null
+    },
+    {
+      "title": "Cheryl",
+      "scanned_title": "Cheryl",
+      "composer": "Charlie Parker",
+      "page_number": 53,
+      "key": null
+    },
+    {
+      "title": "Close Enough For Love",
+      "scanned_title": "Close Enough For Love",
+      "composer": "Mandel-Williams",
+      "page_number": 54,
+      "key": "Ab"
+    },
+    {
+      "title": "Compensation",
+      "scanned_title": "Compensation",
+      "composer": "No Metadata",
+      "page_number": 55,
+      "key": null
+    },
+    {
+      "title": "Cool Eyes",
+      "scanned_title": "Cool Eyes",
+      "composer": "No Metadata",
+      "page_number": 56,
+      "key": null
+    },
+    {
+      "title": "Cry Me A River",
+      "scanned_title": "Cry Me A River",
+      "composer": "Arthur Hamilton",
+      "page_number": 58,
+      "key": "Eb"
+    },
+    {
+      "title": "Day Dream",
+      "scanned_title": "Day Dream",
+      "composer": "Strayhorn-Ellington",
+      "page_number": 59,
+      "key": "F"
+    },
+    {
+      "title": "Dacapolypso",
+      "scanned_title": "Dacapolypso",
+      "composer": "No Metadata",
+      "page_number": 60,
+      "key": null
+    },
+    {
+      "title": "Day In, Day Out",
+      "scanned_title": "Day In, Day Out",
+      "composer": "Rube Bloom",
+      "page_number": 62,
+      "key": null
+    },
+    {
+      "title": "Dig",
+      "scanned_title": "Dig",
+      "composer": "Miles Davis",
+      "page_number": 64,
+      "key": "Ab"
+    },
+    {
+      "title": "Don't Ask Why",
+      "scanned_title": "Don't Ask Why",
+      "composer": "No Metadata",
+      "page_number": 66,
+      "key": null
+    },
+    {
+      "title": "Don't Ever Go Away",
+      "scanned_title": "Don't Ever Go Away",
+      "composer": "No Metadata",
+      "page_number": 67,
+      "key": null
+    },
+    {
+      "title": "Don't Look Back",
+      "scanned_title": "Don't Look Back",
+      "composer": "No Metadata",
+      "page_number": 68,
+      "key": null
+    },
+    {
+      "title": "Double Clutching",
+      "scanned_title": "Double Clutching",
+      "composer": "No Metadata",
+      "page_number": 70,
+      "key": null
+    },
+    {
+      "title": "Dream Dancing",
+      "scanned_title": "Dream Dancing",
+      "composer": "Cole Porter",
+      "page_number": 71,
+      "key": null
+    },
+    {
+      "title": "East Of The Sun",
+      "scanned_title": "East Of The Sun",
+      "composer": "Brooks Bowman",
+      "page_number": 72,
+      "key": "G"
+    },
+    {
+      "title": "Emanon",
+      "scanned_title": "Emanon",
+      "composer": "No Metadata",
+      "page_number": 73,
+      "key": null
+    },
+    {
+      "title": "Emily",
+      "scanned_title": "Emily",
+      "composer": "Johnny Mandel",
+      "page_number": 74,
+      "key": "G"
+    },
+    {
+      "title": "End Of A Love Affair, The",
+      "scanned_title": "End Of A Love Affair, The",
+      "composer": "Edward Redding",
+      "page_number": 75,
+      "key": "F"
+    },
+    {
+      "title": "Endlessly",
+      "scanned_title": "Endlessly",
+      "composer": "No Metadata",
+      "page_number": 76,
+      "key": null
+    },
+    {
+      "title": "Estate",
+      "scanned_title": "Estate",
+      "composer": "Bruno Martino",
+      "page_number": 78,
+      "key": "Bmin"
+    },
+    {
+      "title": "Eternal Triangle",
+      "scanned_title": "Eternal Triangle",
+      "composer": "Sonny Stitt",
+      "page_number": 79,
+      "key": "Bb"
+    },
+    {
+      "title": "Every Time We Say Goodbye",
+      "scanned_title": "Ev'ry Time We Say Good Bye",
+      "composer": "Cole Porter",
+      "page_number": 80,
+      "key": "Eb"
+    },
+    {
+      "title": "Everything Happens To Me",
+      "scanned_title": "Everything Happens To Me",
+      "composer": "Matt Dennis",
+      "page_number": 82,
+      "key": "Bb"
+    },
+    {
+      "title": "Everything I Love",
+      "scanned_title": "EverythingI Love",
+      "composer": "Cole Porter",
+      "page_number": 83,
+      "key": "F"
+    },
+    {
+      "title": "Father",
+      "scanned_title": "Father",
+      "composer": "No Metadata",
+      "page_number": 84,
+      "key": null
+    },
+    {
+      "title": "Favela",
+      "scanned_title": "Favela",
+      "composer": "Antonio-Carlos Jobim",
+      "page_number": 85,
+      "key": "Gmin"
+    },
+    {
+      "title": "Feel Like Makin' Love",
+      "scanned_title": "Fell Like Makin' Love",
+      "composer": "Eugene McDaniels",
+      "page_number": 86,
+      "key": "Eb"
+    },
+    {
+      "title": "For Heaven's Sake",
+      "scanned_title": "For Heavens' Sake",
+      "composer": "Edwards-Meyer-Bretton",
+      "page_number": 87,
+      "key": "F"
+    },
+    {
+      "title": "Freight Train",
+      "scanned_title": "Freight Trane",
+      "composer": "Tommy Flanagan",
+      "page_number": 88,
+      "key": "Ab"
+    },
+    {
+      "title": "French Waltz",
+      "scanned_title": "French Waltz",
+      "composer": "No Metadata",
+      "page_number": 89,
+      "key": null
+    },
+    {
+      "title": "Friday The 13th",
+      "scanned_title": "Friday The 13th",
+      "composer": "Thelonious Monk",
+      "page_number": 90,
+      "key": "G"
+    },
+    {
+      "title": "From Now On",
+      "scanned_title": "From Now On",
+      "composer": "No Metadata",
+      "page_number": 91,
+      "key": null
+    },
+    {
+      "title": "From the Heart ",
+      "scanned_title": "From the Heart ",
+      "composer": "No Metadata",
+      "page_number": 92,
+      "key": null
+    },
+    {
+      "title": "From This Moment On",
+      "scanned_title": "From This Moment On",
+      "composer": "Cole Porter",
+      "page_number": 94,
+      "key": "Fmin"
+    },
+    {
+      "title": "Full Moon and Empty Arms",
+      "scanned_title": "Full Moon and Empty Arms",
+      "composer": "No Metadata",
+      "page_number": 95,
+      "key": null
+    },
+    {
+      "title": "Funkallero",
+      "scanned_title": "Funkallero",
+      "composer": "Bill Evans",
+      "page_number": 96,
+      "key": "Cmin"
+    },
+    {
+      "title": "Gnu Blu",
+      "scanned_title": "Gnu Blu",
+      "composer": "No Metadata",
+      "page_number": 97,
+      "key": null
+    },
+    {
+      "title": "Gaviota",
+      "scanned_title": "Gaviota",
+      "composer": "No Metadata",
+      "page_number": 98,
+      "key": null
+    },
+    {
+      "title": "Godchild",
+      "scanned_title": "Godchild",
+      "composer": "George Wallington",
+      "page_number": 100,
+      "key": "Ab"
+    },
+    {
+      "title": "Gone With The Wind",
+      "scanned_title": "Gone With The Wind",
+      "composer": "Allie Wrubel",
+      "page_number": 101,
+      "key": "Eb"
+    },
+    {
+      "title": "Goodbye",
+      "scanned_title": "Goodbye",
+      "composer": "Gordon Jenkins",
+      "page_number": 102,
+      "key": null
+    },
+    {
+      "title": "Got A Match?",
+      "scanned_title": "Got A Match",
+      "composer": "Chick Corea",
+      "page_number": 103,
+      "key": "Dmin"
+    },
+    {
+      "title": "Harlem Nocturne",
+      "scanned_title": "Harlem Nocturne",
+      "composer": "Hagen-Rogers",
+      "page_number": 104,
+      "key": "Gmin"
+    },
+    {
+      "title": "Heartsong",
+      "scanned_title": "Heartsong",
+      "composer": "No Metadata",
+      "page_number": 106,
+      "key": null
+    },
+    {
+      "title": "High Hopes",
+      "scanned_title": "High Hopes",
+      "composer": "Jimmy Van-Heusen",
+      "page_number": 108,
+      "key": "F"
+    },
+    {
+      "title": "High Wire The Aerialist",
+      "scanned_title": "High Wire The Aerialist",
+      "composer": "No Metadata",
+      "page_number": 110,
+      "key": null
+    },
+    {
+      "title": "H & H",
+      "scanned_title": "H&H",
+      "composer": "Pat Metheny",
+      "page_number": 112,
+      "key": null
+    },
+    {
+      "title": "Hot House",
+      "scanned_title": "Hot House",
+      "composer": "Tadd Dameron",
+      "page_number": 113,
+      "key": null
+    },
+    {
+      "title": "How About You",
+      "scanned_title": "How About You",
+      "composer": "Burton Lane",
+      "page_number": 114,
+      "key": "F"
+    },
+    {
+      "title": "How Deep Is The Ocean",
+      "scanned_title": "How Deep Is The Ocean",
+      "composer": "Irving Berlin",
+      "page_number": 115,
+      "key": "Eb"
+    },
+    {
+      "title": "How Long Has This Been Going On?",
+      "scanned_title": "How Long Has This Been Going On",
+      "composer": "George Gershwin",
+      "page_number": 116,
+      "key": "F"
+    },
+    {
+      "title": "I Didn't Know What Time It Was",
+      "scanned_title": "I Didn't Know What Time It Was",
+      "composer": "Richard Rodgers",
+      "page_number": 117,
+      "key": "G"
+    },
+    {
+      "title": "I Concentrate On You",
+      "scanned_title": "I Concentrate On You",
+      "composer": "Cole Porter",
+      "page_number": 118,
+      "key": "Eb"
+    },
+    {
+      "title": "I Fall In Love Too Easily",
+      "scanned_title": "I Fall In Love Too Easily",
+      "composer": "Jule Styne",
+      "page_number": 120,
+      "key": "Eb"
+    },
+    {
+      "title": "I Left My Heart In San Francisco",
+      "scanned_title": "I Left My Heart In San Francisco",
+      "composer": "George Cory",
+      "page_number": 121,
+      "key": null
+    },
+    {
+      "title": "I Need You Here",
+      "scanned_title": "I Need You Here",
+      "composer": "No Metadata",
+      "page_number": 122,
+      "key": null
+    },
+    {
+      "title": "I Wish You Love",
+      "scanned_title": "I Wish You Love",
+      "composer": "Charles Trenet",
+      "page_number": 124,
+      "key": "Eb"
+    },
+    {
+      "title": "I'll Be Around",
+      "scanned_title": "I'll Be Around",
+      "composer": "Alec Wilder",
+      "page_number": 126,
+      "key": null
+    },
+    {
+      "title": "I Loves You Porgy",
+      "scanned_title": "I Loves You Porgy",
+      "composer": "George Gershwin",
+      "page_number": 128,
+      "key": "F"
+    },
+    {
+      "title": "I'll Be Seeing You",
+      "scanned_title": "I'll Be Seeing You",
+      "composer": "Sammy Fain",
+      "page_number": 129,
+      "key": "Eb"
+    },
+    {
+      "title": "I'll Close My Eyes",
+      "scanned_title": "I'll Close My Eyes",
+      "composer": "Reid-Kaye",
+      "page_number": 130,
+      "key": "F"
+    },
+    {
+      "title": "I'll Take Romance",
+      "scanned_title": "I'll Take Romance",
+      "composer": "Ben Oakland",
+      "page_number": 131,
+      "key": "F"
+    },
+    {
+      "title": "I'm Glad There Is You",
+      "scanned_title": "I'm Glad There Is You",
+      "composer": "Jimmy Dorsey",
+      "page_number": 132,
+      "key": "F"
+    },
+    {
+      "title": "I'm Old Fashioned",
+      "scanned_title": "I'm Old Fashioned",
+      "composer": "Jerome Kern",
+      "page_number": 133,
+      "key": "F"
+    },
+    {
+      "title": "I'm Through With Love",
+      "scanned_title": "I'm Through With Love",
+      "composer": "Kahn-Malneck-Livingston",
+      "page_number": 134,
+      "key": "F"
+    },
+    {
+      "title": "I've Got A Crush On You",
+      "scanned_title": "I've Got A Crush On You",
+      "composer": "George Gershwin",
+      "page_number": 135,
+      "key": "Bb"
+    },
+    {
+      "title": "I've Got The World On A String",
+      "scanned_title": "I've Got The World On A String",
+      "composer": "Harold Arlen",
+      "page_number": 136,
+      "key": "F"
+    },
+    {
+      "title": "I've Got You Under My Skin",
+      "scanned_title": "I've Got You Under My Skin",
+      "composer": "Cole Porter",
+      "page_number": 138,
+      "key": "Eb"
+    },
+    {
+      "title": "I've Grown Accustomed To Her Face",
+      "scanned_title": "I've Grown Accustomed To Your Face",
+      "composer": "Frederick Loewe",
+      "page_number": 140,
+      "key": "Eb"
+    },
+    {
+      "title": "I've Never Been In Love Before",
+      "scanned_title": "I've Never Been In Love Before",
+      "composer": "Frank Loesser",
+      "page_number": 141,
+      "key": "Bb"
+    },
+    {
+      "title": "Ill Wind",
+      "scanned_title": "Ill Wind",
+      "composer": "No Metadata",
+      "page_number": 142,
+      "key": null
+    },
+    {
+      "title": "In A Capricornian Way",
+      "scanned_title": "In A Capricornian Way",
+      "composer": "No Metadata",
+      "page_number": 143,
+      "key": null
+    },
+    {
+      "title": "In Her Family",
+      "scanned_title": "In Her Family",
+      "composer": "No Metadata",
+      "page_number": 144,
+      "key": null
+    },
+    {
+      "title": "In Love In Vain",
+      "scanned_title": "In Love In Vain",
+      "composer": "Leo Robin Jerome Kern",
+      "page_number": 145,
+      "key": "Bb"
+    },
+    {
+      "title": "In the Days of Our Love",
+      "scanned_title": "In the Days of Our Love",
+      "composer": "No Metadata",
+      "page_number": 146,
+      "key": null
+    },
+    {
+      "title": "Indian Summer",
+      "scanned_title": "Indian Summer",
+      "composer": " Victor-Aldubin-Herbert",
+      "page_number": 148,
+      "key": "G"
+    },
+    {
+      "title": "Irv's At Midnight",
+      "scanned_title": "Irv's At Midnight",
+      "composer": "No Metadata",
+      "page_number": 149,
+      "key": null
+    },
+    {
+      "title": "Isfahan",
+      "scanned_title": "Isfahan",
+      "composer": "Strayhorn-Ellington",
+      "page_number": 150,
+      "key": "Db"
+    },
+    {
+      "title": "It Never Entered My Mind",
+      "scanned_title": "It Never Entered My Mind",
+      "composer": "Richard Rodgers",
+      "page_number": 151,
+      "key": "F"
+    },
+    {
+      "title": "It's All Right With Me",
+      "scanned_title": "It's All Right With Me",
+      "composer": "Cole Porter",
+      "page_number": 152,
+      "key": "Cmin"
+    },
+    {
+      "title": "It's You Or No One",
+      "scanned_title": "It's You Or No One",
+      "composer": "Jule Styne",
+      "page_number": 154,
+      "key": "F"
+    },
+    {
+      "title": "Japanese Waltz, A",
+      "scanned_title": "Japanese Waltz, A",
+      "composer": "No Metadata",
+      "page_number": 155,
+      "key": null
+    },
+    {
+      "title": "Jersey Bounce",
+      "scanned_title": "Jersey Bounce",
+      "composer": "Plater-Bradshaw-Johnson",
+      "page_number": 156,
+      "key": "F"
+    },
+    {
+      "title": "Jive Samba",
+      "scanned_title": "Jive Samba",
+      "composer": "No Metadata",
+      "page_number": 157,
+      "key": null
+    },
+    {
+      "title": "Jitterbug Waltz",
+      "scanned_title": "Jitterbug Waltz",
+      "composer": "Fats Waller",
+      "page_number": 158,
+      "key": "Eb"
+    },
+    {
+      "title": "Just One Of Those Things",
+      "scanned_title": "Just One Of Those Things",
+      "composer": "Cole Porter",
+      "page_number": 160,
+      "key": "F"
+    },
+    {
+      "title": "Julian",
+      "scanned_title": "Julian",
+      "composer": "No Metadata",
+      "page_number": 162,
+      "key": null
+    },
+    {
+      "title": "Just Squeeze Me",
+      "scanned_title": "Just Squeeze Me",
+      "composer": "Duke Ellington",
+      "page_number": 163,
+      "key": "F"
+    },
+    {
+      "title": "Ladies In Mercedes",
+      "scanned_title": "Ladies In Mercedes",
+      "composer": "Steve Swallow",
+      "page_number": 164,
+      "key": "G"
+    },
+    {
+      "title": "Lady is a Tramp, The",
+      "scanned_title": "Lady Is A Tramp, The",
+      "composer": "Richard Rodgers",
+      "page_number": 166,
+      "key": null
+    },
+    {
+      "title": "Lazy Afternoon",
+      "scanned_title": "Lazy Afternoon",
+      "composer": "Latouche-Moross",
+      "page_number": 167,
+      "key": "Amin"
+    },
+    {
+      "title": "Leap Of Faith",
+      "scanned_title": "Leap Of Faith",
+      "composer": "No Metadata",
+      "page_number": 168,
+      "key": null
+    },
+    {
+      "title": "Line For Lyons",
+      "scanned_title": "Line For Lyons",
+      "composer": "Gerry Mulligan",
+      "page_number": 170,
+      "key": "G"
+    },
+    {
+      "title": "Little Willie Leaps",
+      "scanned_title": "Little Willie Leaps",
+      "composer": "Charlie Parker",
+      "page_number": 171,
+      "key": "F"
+    },
+    {
+      "title": "Little Face [Tab_]",
+      "scanned_title": "Little Face [Tab_]",
+      "composer": "No Metadata",
+      "page_number": 172,
+      "key": null
+    },
+    {
+      "title": "Little Girl Blue",
+      "scanned_title": "Little Girl Blue",
+      "composer": "Richard Rodgers",
+      "page_number": 174,
+      "key": "F"
+    },
+    {
+      "title": "Long View, The",
+      "scanned_title": "Long View, The",
+      "composer": "No Metadata",
+      "page_number": 176,
+      "key": null
+    },
+    {
+      "title": "Loop, The",
+      "scanned_title": "Loop, The",
+      "composer": "Chick Corea",
+      "page_number": 178,
+      "key": "F"
+    },
+    {
+      "title": "Lotus On Irish Streams, A",
+      "scanned_title": "Lotus On Irish Streams, A",
+      "composer": "No Metadata",
+      "page_number": 179,
+      "key": null
+    },
+    {
+      "title": "Loud-Zee",
+      "scanned_title": "Loud-Zee",
+      "composer": "No Metadata",
+      "page_number": 180,
+      "key": null
+    },
+    {
+      "title": "Lovers Rain Dance",
+      "scanned_title": "Lovers Rain Dance",
+      "composer": "No Metadata",
+      "page_number": 181,
+      "key": null
+    },
+    {
+      "title": "Love Walked In",
+      "scanned_title": "Love Walked In",
+      "composer": "George Gershwin",
+      "page_number": 182,
+      "key": "Eb"
+    },
+    {
+      "title": "Lullaby Of The Leaves",
+      "scanned_title": "Lullaby Of The Leaves",
+      "composer": "Bernice Petkere",
+      "page_number": 184,
+      "key": "Cmin"
+    },
+    {
+      "title": "Lulu's Back In Town",
+      "scanned_title": "Lulu's Back In Town",
+      "composer": "Harry Warren",
+      "page_number": 185,
+      "key": "Eb"
+    },
+    {
+      "title": "Making Whoopee",
+      "scanned_title": "Makin' Whoopee",
+      "composer": "Walter Donaldson",
+      "page_number": 186,
+      "key": "G"
+    },
+    {
+      "title": "Mandala",
+      "scanned_title": "Mandala",
+      "composer": "No Metadata",
+      "page_number": 188,
+      "key": null
+    },
+    {
+      "title": "Manhattan",
+      "scanned_title": "Manhattan",
+      "composer": "Richard Rodgers",
+      "page_number": 189,
+      "key": "F"
+    },
+    {
+      "title": "Matrix",
+      "scanned_title": "Matrix",
+      "composer": "No Metadata",
+      "page_number": 190,
+      "key": null
+    },
+    {
+      "title": "Mayreh",
+      "scanned_title": "Mayreh",
+      "composer": "No Metadata",
+      "page_number": 191,
+      "key": null
+    },
+    {
+      "title": "Meaning Of The Blues, The",
+      "scanned_title": "Meaning Of The Blues, The",
+      "composer": "Worth-Troup",
+      "page_number": 192,
+      "key": "Dmin"
+    },
+    {
+      "title": "Milestones",
+      "scanned_title": "Milestones",
+      "composer": "No Metadata",
+      "page_number": 193,
+      "key": null
+    },
+    {
+      "title": "Mi Boj A Samba",
+      "scanned_title": "Mi Boj A Samba",
+      "composer": "No Metadata",
+      "page_number": 194,
+      "key": null
+    },
+    {
+      "title": "Midnight Sun",
+      "scanned_title": "Midnight Sun",
+      "composer": "Hampton-Burke-Mercer",
+      "page_number": 196,
+      "key": null
+    },
+    {
+      "title": "Moment To Moment",
+      "scanned_title": "Moment To Moment",
+      "composer": "No Metadata",
+      "page_number": 198,
+      "key": null
+    },
+    {
+      "title": "Moonlight In Vermont",
+      "scanned_title": "Moonlight In Vermont",
+      "composer": "Karl Suessdorf",
+      "page_number": 199,
+      "key": "Eb"
+    },
+    {
+      "title": "Monster & The Flower, The",
+      "scanned_title": "Monster & The Flower, The",
+      "composer": "No Metadata",
+      "page_number": 200,
+      "key": null
+    },
+    {
+      "title": "Moon And Sand",
+      "scanned_title": "Moon and Sand",
+      "composer": "Wilder-Palitz",
+      "page_number": 202,
+      "key": "Dmin"
+    },
+    {
+      "title": "Mountain Greenery",
+      "scanned_title": "Mountain Greenery",
+      "composer": "Richard Rodgers",
+      "page_number": 204,
+      "key": null
+    },
+    {
+      "title": "Muezzin'",
+      "scanned_title": "Muezzin'",
+      "composer": "No Metadata",
+      "page_number": 205,
+      "key": null
+    },
+    {
+      "title": "My Man's Gone Now",
+      "scanned_title": "My Man's Gone Now",
+      "composer": "George Gershwin",
+      "page_number": 206,
+      "key": "Emin"
+    },
+    {
+      "title": "My Heart Stood Still",
+      "scanned_title": "My Heart Stood Still",
+      "composer": "Richard Rodgers",
+      "page_number": 208,
+      "key": "F"
+    },
+    {
+      "title": "Neal's Blues",
+      "scanned_title": "Neal's Blues",
+      "composer": "No Metadata",
+      "page_number": 209,
+      "key": null
+    },
+    {
+      "title": "Never Let Me Go",
+      "scanned_title": "Never Let Me Go",
+      "composer": "Jay Livingston",
+      "page_number": 210,
+      "key": "Bb"
+    },
+    {
+      "title": "Nice 'n Easy",
+      "scanned_title": "Nice 'N Easy",
+      "composer": "Spence-Bergman-Keith",
+      "page_number": 211,
+      "key": null
+    },
+    {
+      "title": "Night We Called It A Day, The",
+      "scanned_title": "N nt We Called It A Day, The",
+      "composer": "Matt Dennis",
+      "page_number": 212,
+      "key": "G"
+    },
+    {
+      "title": "A Nightingale Sang In Berkeley Square",
+      "scanned_title": "Nightingale Sang In Berkeley Square, A",
+      "composer": "Manning Sherwin",
+      "page_number": 213,
+      "key": "Eb"
+    },
+    {
+      "title": "Nobody Else But Me",
+      "scanned_title": "Nobody Eise But Me",
+      "composer": "Jerome Kern",
+      "page_number": 214,
+      "key": null
+    },
+    {
+      "title": "Now He Beats The Drum-Now He Stops",
+      "scanned_title": "Now He Beats The Drum-Now He Stops",
+      "composer": "No Metadata",
+      "page_number": 215,
+      "key": null
+    },
+    {
+      "title": "Now He Sings, Now he Sobs",
+      "scanned_title": "Now He Sings, Now he Sobs",
+      "composer": "No Metadata",
+      "page_number": 216,
+      "key": null
+    },
+    {
+      "title": "Number 6",
+      "scanned_title": "Number 6",
+      "composer": "No Metadata",
+      "page_number": 217,
+      "key": null
+    },
+    {
+      "title": "Old Folks",
+      "scanned_title": "Old Folks",
+      "composer": "Willard Robison",
+      "page_number": 218,
+      "key": "F"
+    },
+    {
+      "title": "On A Clear Day",
+      "scanned_title": "On A Clear Day",
+      "composer": "Burton Lane",
+      "page_number": 219,
+      "key": "G"
+    },
+    {
+      "title": "On The Sly",
+      "scanned_title": "On The Sly",
+      "composer": "No Metadata",
+      "page_number": 220,
+      "key": null
+    },
+    {
+      "title": "On The Street Where You Live",
+      "scanned_title": "On The Street Where You Live",
+      "composer": "Frederick Loewe",
+      "page_number": 222,
+      "key": "Bb"
+    },
+    {
+      "title": "Only You Know",
+      "scanned_title": "Only You Know",
+      "composer": "No Metadata",
+      "page_number": 224,
+      "key": null
+    },
+    {
+      "title": "Out Of This World",
+      "scanned_title": "Out Of This World",
+      "composer": "Harold Arlen",
+      "page_number": 226,
+      "key": "Eb"
+    },
+    {
+      "title": "Our Delight",
+      "scanned_title": "Our Delight",
+      "composer": "Tad Dameron",
+      "page_number": 228,
+      "key": "Ab"
+    },
+    {
+      "title": "Over The Rainbow",
+      "scanned_title": "Over The Rainbow",
+      "composer": "No Metadata",
+      "page_number": 229,
+      "key": null
+    },
+    {
+      "title": "Ow!",
+      "scanned_title": "Ow!",
+      "composer": "No Metadata",
+      "page_number": 230,
+      "key": null
+    },
+    {
+      "title": "Party's Over, The",
+      "scanned_title": "Party's Over, The",
+      "composer": "Styne-Comden-Green",
+      "page_number": 231,
+      "key": "Eb"
+    },
+    {
+      "title": "Panhandle Hook",
+      "scanned_title": "Panhandle Hook",
+      "composer": "No Metadata",
+      "page_number": 232,
+      "key": null
+    },
+    {
+      "title": "Passport",
+      "scanned_title": "Passport",
+      "composer": "Charlie Parker",
+      "page_number": 234,
+      "key": "Bb"
+    },
+    {
+      "title": "Patz Blues",
+      "scanned_title": "Patz Blues",
+      "composer": "No Metadata",
+      "page_number": 235,
+      "key": null
+    },
+    {
+      "title": "People",
+      "scanned_title": "People",
+      "composer": "Jule Styne",
+      "page_number": 236,
+      "key": "Bb"
+    },
+    {
+      "title": "Perhaps",
+      "scanned_title": "Perhaps",
+      "composer": "Charlie Parker",
+      "page_number": 238,
+      "key": null
+    },
+    {
+      "title": "Picadilly Lilly",
+      "scanned_title": "Picadilly Lilly",
+      "composer": "No Metadata",
+      "page_number": 239,
+      "key": null
+    },
+    {
+      "title": "Poinciana",
+      "scanned_title": "Poinciana",
+      "composer": "Nat Simon",
+      "page_number": 240,
+      "key": "D"
+    },
+    {
+      "title": "Point Of Return",
+      "scanned_title": "Point Of Return",
+      "composer": "No Metadata",
+      "page_number": 241,
+      "key": null
+    },
+    {
+      "title": "Poor Butterfly",
+      "scanned_title": "Poor Butterfly",
+      "composer": "Raymon Hubbell",
+      "page_number": 242,
+      "key": "Ab"
+    },
+    {
+      "title": "A Pretty Girl Is Like A Melody",
+      "scanned_title": "Pretty Girl Is Like A Melody, A",
+      "composer": "Irving Berlin",
+      "page_number": 243,
+      "key": "G"
+    },
+    {
+      "title": "Prism",
+      "scanned_title": "Prism",
+      "composer": "Keith Jarrett",
+      "page_number": 244,
+      "key": "Gmin"
+    },
+    {
+      "title": "Pure Imagination",
+      "scanned_title": "Pure Imagination",
+      "composer": "Anthony Newley",
+      "page_number": 245,
+      "key": "Eb"
+    },
+    {
+      "title": "Rahsaan's Run",
+      "scanned_title": "Rahsaan's Run",
+      "composer": "No Metadata",
+      "page_number": 246,
+      "key": null
+    },
+    {
+      "title": "Re-Re",
+      "scanned_title": "Re-Re",
+      "composer": "No Metadata",
+      "page_number": 247,
+      "key": null
+    },
+    {
+      "title": "Re: Person I Knew",
+      "scanned_title": "Re PersonI Knew",
+      "composer": "Bill Evans",
+      "page_number": 248,
+      "key": null
+    },
+    {
+      "title": "Relaxin' At Camarillo",
+      "scanned_title": "Relaxin' At Carmarillo",
+      "composer": "Charlie Parker",
+      "page_number": 249,
+      "key": null
+    },
+    {
+      "title": "Rosewood",
+      "scanned_title": "Rosewood",
+      "composer": "No Metadata",
+      "page_number": 250,
+      "key": null
+    },
+    {
+      "title": "Room 608",
+      "scanned_title": "Room 608",
+      "composer": "Horace Silver",
+      "page_number": 252,
+      "key": "Bb"
+    },
+    {
+      "title": "Saint Thomas",
+      "scanned_title": "Saint Thomas",
+      "composer": "No Metadata",
+      "page_number": 253,
+      "key": null
+    },
+    {
+      "title": "Samba De Orfeu",
+      "scanned_title": "Samba De Orfeu",
+      "composer": "Luiz Bonfa",
+      "page_number": 254,
+      "key": null
+    },
+    {
+      "title": "Santurce",
+      "scanned_title": "Santurce",
+      "composer": "No Metadata",
+      "page_number": 256,
+      "key": null
+    },
+    {
+      "title": "Sambacide",
+      "scanned_title": "Sambacide",
+      "composer": "No Metadata",
+      "page_number": 258,
+      "key": null
+    },
+    {
+      "title": "Seabrook Revisited",
+      "scanned_title": "Seabrook Revisited",
+      "composer": "No Metadata",
+      "page_number": 259,
+      "key": null
+    },
+    {
+      "title": "My Secret Love",
+      "scanned_title": "Secret Love",
+      "composer": "Roger Vogel",
+      "page_number": 260,
+      "key": "Eb"
+    },
+    {
+      "title": "Secret Love",
+      "scanned_title": "Secret Love",
+      "composer": "Sammy Fain",
+      "page_number": 260,
+      "key": "Eb"
+    },
+    {
+      "title": "Seems To Me",
+      "scanned_title": "Seems To Me",
+      "composer": "No Metadata",
+      "page_number": 262,
+      "key": null
+    },
+    {
+      "title": "Serpent's Tooth",
+      "scanned_title": "Serpent's Tooth",
+      "composer": "Miles Davis",
+      "page_number": 263,
+      "key": "Bb"
+    },
+    {
+      "title": "Shaw 'Nuff",
+      "scanned_title": "Shaw Nuff",
+      "composer": "Charlie Parker",
+      "page_number": 264,
+      "key": "Bb"
+    },
+    {
+      "title": "Sister Sadie",
+      "scanned_title": "Sister Sadie",
+      "composer": "No Metadata",
+      "page_number": 266,
+      "key": null
+    },
+    {
+      "title": "Skylark",
+      "scanned_title": "Skylark",
+      "composer": "Hoagy Carmichael",
+      "page_number": 267,
+      "key": "Eb"
+    },
+    {
+      "title": "A Sleepin' Bee",
+      "scanned_title": "Sleepin' Bee, A",
+      "composer": "Harold Arlen",
+      "page_number": 268,
+      "key": "Ab"
+    },
+    {
+      "title": "So In Love",
+      "scanned_title": "So In Love",
+      "composer": "Cole Porter",
+      "page_number": 270,
+      "key": "Fmin"
+    },
+    {
+      "title": "Some Nerve",
+      "scanned_title": "Some Nerve",
+      "composer": "No Metadata",
+      "page_number": 272,
+      "key": null
+    },
+    {
+      "title": "Something From Everyone",
+      "scanned_title": "Something From Everyone",
+      "composer": "No Metadata",
+      "page_number": 273,
+      "key": null
+    },
+    {
+      "title": "Song For Sisyphus",
+      "scanned_title": "Song For Sisyphus",
+      "composer": "No Metadata",
+      "page_number": 274,
+      "key": null
+    },
+    {
+      "title": "Sonnymoon For Two",
+      "scanned_title": "Sonnymoon For Two",
+      "composer": "Sonny Rollins",
+      "page_number": 276,
+      "key": "Bb"
+    },
+    {
+      "title": "Soon",
+      "scanned_title": "Soon",
+      "composer": "George Gershwin",
+      "page_number": 277,
+      "key": "Eb"
+    },
+    {
+      "title": "Spirit Samba",
+      "scanned_title": "Spirit Samba",
+      "composer": "No Metadata",
+      "page_number": 278,
+      "key": null
+    },
+    {
+      "title": "Spring Can Really Hang You Up The Most",
+      "scanned_title": "Spring Can Really Hang You Up The Most",
+      "composer": "Tommy Wolf",
+      "page_number": 280,
+      "key": null
+    },
+    {
+      "title": "Squirrel",
+      "scanned_title": "Squirrel",
+      "composer": "No Metadata",
+      "page_number": 282,
+      "key": null
+    },
+    {
+      "title": "Stablemates",
+      "scanned_title": "Stablemates",
+      "composer": "Benny Golson",
+      "page_number": 283,
+      "key": "Db"
+    },
+    {
+      "title": "Star Eyes",
+      "scanned_title": "Star Eyes",
+      "composer": "Gene DePaul",
+      "page_number": 284,
+      "key": "Eb"
+    },
+    {
+      "title": "Stars Fell On Alabama",
+      "scanned_title": "Stars Fell On Alabama",
+      "composer": "Frank Perkins",
+      "page_number": 285,
+      "key": null
+    },
+    {
+      "title": "Steeple Chase",
+      "scanned_title": "Steeple Chase",
+      "composer": "No Metadata",
+      "page_number": 286,
+      "key": null
+    },
+    {
+      "title": "Stormy Weather",
+      "scanned_title": "StormyWeather",
+      "composer": "Harold Arlen",
+      "page_number": 287,
+      "key": "G"
+    },
+    {
+      "title": "Street Of Dreams",
+      "scanned_title": "Street Of Dreams",
+      "composer": "Victor Young",
+      "page_number": 288,
+      "key": "Eb"
+    },
+    {
+      "title": "Sunny",
+      "scanned_title": "Sunny",
+      "composer": "Bobby Hebb",
+      "page_number": 289,
+      "key": "Amin"
+    },
+    {
+      "title": "Sunny Side Of The Street",
+      "scanned_title": "Sunny Side Of The Street",
+      "composer": "No Metadata",
+      "page_number": 290,
+      "key": null
+    },
+    {
+      "title": "Sweet Lorraine",
+      "scanned_title": "Sweet Lorraine",
+      "composer": "Cliff Burwell",
+      "page_number": 291,
+      "key": "G"
+    },
+    {
+      "title": "Swing Dentz Swing",
+      "scanned_title": "Swing Dentz Swing",
+      "composer": "No Metadata",
+      "page_number": 292,
+      "key": null
+    },
+    {
+      "title": "Swing Shift",
+      "scanned_title": "Swing Shift",
+      "composer": "No Metadata",
+      "page_number": 294,
+      "key": null
+    },
+    {
+      "title": "Sy Clone",
+      "scanned_title": "Sy Clone",
+      "composer": "No Metadata",
+      "page_number": 295,
+      "key": null
+    },
+    {
+      "title": "TJRC",
+      "scanned_title": "TJRC",
+      "composer": "No Metadata",
+      "page_number": 296,
+      "key": null
+    },
+    {
+      "title": "Teach Me Tonight",
+      "scanned_title": "Teach Me Tonight",
+      "composer": "Gene DePaul",
+      "page_number": 297,
+      "key": "Eb"
+    },
+    {
+      "title": "Tea For Two",
+      "scanned_title": "Tea For Two",
+      "composer": "Vincent Youmans",
+      "page_number": 298,
+      "key": "Ab"
+    },
+    {
+      "title": "That Old Feeling",
+      "scanned_title": "That Old Feeling",
+      "composer": "Brown-Fain",
+      "page_number": 300,
+      "key": null
+    },
+    {
+      "title": "That's All",
+      "scanned_title": "That's All",
+      "composer": "Haymes-Brandt",
+      "page_number": 301,
+      "key": "Bb"
+    },
+    {
+      "title": "Theme From Maxine",
+      "scanned_title": "Theme From Maxine",
+      "composer": "No Metadata",
+      "page_number": 302,
+      "key": null
+    },
+    {
+      "title": "Then I'll Be Tired Of You",
+      "scanned_title": "Then I'll Be Tired Of You",
+      "composer": "No Metadata",
+      "page_number": 303,
+      "key": null
+    },
+    {
+      "title": "There Goes My Heart",
+      "scanned_title": "There Goes My Heart",
+      "composer": "No Metadata",
+      "page_number": 304,
+      "key": null
+    },
+    {
+      "title": "They Say It's Wonderful",
+      "scanned_title": "They Say Its Wonderful",
+      "composer": "Irving Berlin",
+      "page_number": 306,
+      "key": "F"
+    },
+    {
+      "title": "Their's Tears",
+      "scanned_title": "Their's Tears",
+      "composer": "No Metadata",
+      "page_number": 307,
+      "key": null
+    },
+    {
+      "title": "Things Ain't What They Used To Be",
+      "scanned_title": "Things Ain't What They Used To Be",
+      "composer": "Duke Ellington",
+      "page_number": 308,
+      "key": "Db"
+    },
+    {
+      "title": "This Can't Be Love",
+      "scanned_title": "This Can't Be Love",
+      "composer": "Richard Rodgers",
+      "page_number": 309,
+      "key": "F"
+    },
+    {
+      "title": "Three And One",
+      "scanned_title": "Three And One",
+      "composer": "No Metadata",
+      "page_number": 310,
+      "key": null
+    },
+    {
+      "title": "Thrill Is Gone, The",
+      "scanned_title": "Thrill Is Gone,The",
+      "composer": "Ray Henderson",
+      "page_number": 311,
+      "key": "Cmin"
+    },
+    {
+      "title": "Thyme's Time",
+      "scanned_title": "Thyme's Time",
+      "composer": "No Metadata",
+      "page_number": 312,
+      "key": null
+    },
+    {
+      "title": "Tidal Breeze",
+      "scanned_title": "Tidal Breeze",
+      "composer": "No Metadata",
+      "page_number": 314,
+      "key": null
+    },
+    {
+      "title": "A Time For Love",
+      "scanned_title": "Time For Love, A",
+      "composer": "Johnny Mandel",
+      "page_number": 315,
+      "key": "F"
+    },
+    {
+      "title": "Times Lie",
+      "scanned_title": "Times Lie",
+      "composer": "No Metadata",
+      "page_number": 316,
+      "key": null
+    },
+    {
+      "title": "Time Was",
+      "scanned_title": "Time Was",
+      "composer": "No Metadata",
+      "page_number": 318,
+      "key": null
+    },
+    {
+      "title": "Tiny Capers",
+      "scanned_title": "Tiny Capers",
+      "composer": "Clifford Brown",
+      "page_number": 319,
+      "key": "Bb"
+    },
+    {
+      "title": "Tis'",
+      "scanned_title": "Tis'",
+      "composer": "No Metadata",
+      "page_number": 320,
+      "key": null
+    },
+    {
+      "title": "To Kill A Brick",
+      "scanned_title": "To Kill A Brick",
+      "composer": "No Metadata",
+      "page_number": 321,
+      "key": null
+    },
+    {
+      "title": "Too Close For Comfort",
+      "scanned_title": "Too Close For Comfort",
+      "composer": "Bock-Weiss-Holofcener",
+      "page_number": 322,
+      "key": null
+    },
+    {
+      "title": "Too Marvelous For Words",
+      "scanned_title": "Too Marvelous For Words",
+      "composer": "Richard Whiting",
+      "page_number": 323,
+      "key": "G"
+    },
+    {
+      "title": "Touch Of Your Lips, The",
+      "scanned_title": "Touch Of Your Lips, The",
+      "composer": "Ray Noble",
+      "page_number": 324,
+      "key": null
+    },
+    {
+      "title": "Tricotism",
+      "scanned_title": "Tricrotism",
+      "composer": "Oscar Pettiford",
+      "page_number": 325,
+      "key": "Db"
+    },
+    {
+      "title": "Tune 88",
+      "scanned_title": "Tune 88",
+      "composer": "No Metadata",
+      "page_number": 326,
+      "key": null
+    },
+    {
+      "title": "Un Poco Loco",
+      "scanned_title": "Un Poco Loco",
+      "composer": "No Metadata",
+      "page_number": 327,
+      "key": null
+    },
+    {
+      "title": "Unforgettable",
+      "scanned_title": "Unforgettable",
+      "composer": "Gordon Irving",
+      "page_number": 328,
+      "key": "G"
+    },
+    {
+      "title": "Very Thought Of You, The",
+      "scanned_title": "Very Thought Of You, The",
+      "composer": "Ray Noble",
+      "page_number": 329,
+      "key": "Ab"
+    },
+    {
+      "title": "Violets For Your Furs",
+      "scanned_title": "Violets For Your Furs",
+      "composer": "Adair-Dennis",
+      "page_number": 330,
+      "key": "F"
+    },
+    {
+      "title": "Wail",
+      "scanned_title": "Wail",
+      "composer": "No Metadata",
+      "page_number": 331,
+      "key": null
+    },
+    {
+      "title": "Wall-Eye Blues",
+      "scanned_title": "Wall-Eye Blues",
+      "composer": "No Metadata",
+      "page_number": 332,
+      "key": null
+    },
+    {
+      "title": "Watch What Happens",
+      "scanned_title": "Watch What Happens",
+      "composer": "Michel Legrand",
+      "page_number": 333,
+      "key": "Eb"
+    },
+    {
+      "title": "Watermelon Man",
+      "scanned_title": "Watermelon Man",
+      "composer": "Herbie Hancock",
+      "page_number": 334,
+      "key": "F"
+    },
+    {
+      "title": "What A Difference A Day Made",
+      "scanned_title": "What A Difference A Day Made",
+      "composer": "Maria Grever",
+      "page_number": 335,
+      "key": "F"
+    },
+    {
+      "title": "Wes Side Stroll",
+      "scanned_title": "Wes Side Stroll",
+      "composer": "No Metadata",
+      "page_number": 336,
+      "key": null
+    },
+    {
+      "title": "What Kind Of Fool Am I",
+      "scanned_title": "What Kind Of Fool Am I",
+      "composer": "No Metadata",
+      "page_number": 338,
+      "key": null
+    },
+    {
+      "title": "When The Sun Comes Out",
+      "scanned_title": "When The Sun Comes Out",
+      "composer": "Harold Arlen",
+      "page_number": 339,
+      "key": "G"
+    },
+    {
+      "title": "When Your Lover Has Gone",
+      "scanned_title": "When Your Lover Has Gone",
+      "composer": "E.A. Swan",
+      "page_number": 340,
+      "key": "G"
+    },
+    {
+      "title": "Where Or When",
+      "scanned_title": "Where OrWhen",
+      "composer": "Richard Rodgers",
+      "page_number": 341,
+      "key": "Eb"
+    },
+    {
+      "title": "While We're Young",
+      "scanned_title": "While We're Young",
+      "composer": "Wilder-Palitz",
+      "page_number": 342,
+      "key": "Eb"
+    },
+    {
+      "title": "Who Can I Turn To",
+      "scanned_title": "Who Can I Turn To",
+      "composer": "Newley-Bricusse",
+      "page_number": 343,
+      "key": "Eb"
+    },
+    {
+      "title": "Why Did I Choose You",
+      "scanned_title": "Why Did I Choose You",
+      "composer": "No Metadata",
+      "page_number": 344,
+      "key": null
+    },
+    {
+      "title": "Will You Still Be Mine?",
+      "scanned_title": "Will You Still Be Mine",
+      "composer": "Matt Dennis",
+      "page_number": 345,
+      "key": "Eb"
+    },
+    {
+      "title": "Witchcraft",
+      "scanned_title": "Witchcraft",
+      "composer": "Cy Coleman",
+      "page_number": 346,
+      "key": "F"
+    },
+    {
+      "title": "With Every Breath I Take",
+      "scanned_title": "With Every Breath I Take",
+      "composer": "No Metadata",
+      "page_number": 347,
+      "key": null
+    },
+    {
+      "title": "Wrap Your Troubles In Dreams",
+      "scanned_title": "Wrap Your Troubles In Dreams",
+      "composer": "Harry Barris",
+      "page_number": 348,
+      "key": null
+    },
+    {
+      "title": "You & The Night & The Music",
+      "scanned_title": "You & The Night & The Music",
+      "composer": "No Metadata",
+      "page_number": 349,
+      "key": null
+    },
+    {
+      "title": "You Do Something To Me",
+      "scanned_title": "You Do Something To Me",
+      "composer": "Cole Porter",
+      "page_number": 350,
+      "key": "Eb"
+    },
+    {
+      "title": "You Make Me Feel So Young",
+      "scanned_title": "You Make Me Feel So Young",
+      "composer": "Josef Myrow",
+      "page_number": 351,
+      "key": "Bb"
+    },
+    {
+      "title": "You Go To My Head",
+      "scanned_title": "You Go To My Head",
+      "composer": "Fred Coots",
+      "page_number": 352,
+      "key": "Eb"
+    },
+    {
+      "title": "You Must Believe In Spring",
+      "scanned_title": "You Must Believe In Spring",
+      "composer": "Michel Legrand",
+      "page_number": 354,
+      "key": "Cmin"
+    },
+    {
+      "title": "You've Changed",
+      "scanned_title": "You've Changed",
+      "composer": "Carl Fisher",
+      "page_number": 355,
+      "key": "Eb"
+    },
+    {
+      "title": "You're Everything",
+      "scanned_title": "You're Everything",
+      "composer": "Chick Corea",
+      "page_number": 356,
+      "key": "A"
+    },
+    {
+      "title": "You're My Everything",
+      "scanned_title": "You're Everything",
+      "composer": "Harry Warren",
+      "page_number": 356,
+      "key": null
+    },
+    {
+      "title": "Younger Than Springtime",
+      "scanned_title": "Younger Than Springtime",
+      "composer": "No Metadata",
+      "page_number": 358,
+      "key": null
+    },
+    {
+      "title": "Yours Is My Heart Alone",
+      "scanned_title": "Yours Is My Heart Alone",
+      "composer": "Franz Lehar",
+      "page_number": 359,
+      "key": "F"
+    }
+  ],
   "5": [
     {
       "title": "A CALL FOR ALL DEMONS",
@@ -3916,11 +5962,11 @@
       "key": null
     },
     {
-      "title": "GEMINI",
-      "scanned_title": "GEMINI",
-      "composer": "No Metadata",
+      "title": "Gee Baby, Ain't I Good To You",
+      "scanned_title": "GEE BABY, AINT I GOOD TO YOU",
+      "composer": "Don Redman",
       "page_number": 153,
-      "key": null
+      "key": "Eb"
     },
     {
       "title": "Full House",
@@ -3930,11 +5976,11 @@
       "key": "Fmin"
     },
     {
-      "title": "Gee Baby, Ain't I Good To You",
-      "scanned_title": "GEE BABY, AINT I GOOD TO YOU",
-      "composer": "Don Redman",
+      "title": "GEMINI",
+      "scanned_title": "GEMINI",
+      "composer": "No Metadata",
       "page_number": 156,
-      "key": "Eb"
+      "key": null
     },
     {
       "title": "Giant Steps",
@@ -5814,3 +7860,4 @@
     }
   ]
 }
+

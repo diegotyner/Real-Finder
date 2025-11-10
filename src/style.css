@@ -10,7 +10,7 @@
   .link {
     @apply text-blue-700 underline text-center;
     &:hover {
-      @apply text-blue-900;
+      @apply text-blue-500;
     }
   }
   .clickable {

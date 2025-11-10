@@ -1,5 +1,9 @@
 10/23/25 - Deleted Blue in Green match to Bein' Green, from central metadata file and keyed metadata file
+10/30/25 - Switched page num and filenames for GEE BABY... and GEMINI
+	- Indexed 3rd JRB, 
+11/9/25 - Did some corrections on 3rd index OCR scans,
+- Ill Wind, In Her Family, I Need You Here
+- And ran script to capitalize filenames
 
 # Future:
 - Match corcovado manually
-- Switch 6: GEE BABY... and GEMINI page numbers and file names
