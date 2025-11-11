@@ -5679,21 +5679,6 @@
     ]
   },
   {
-    "title": "My Secret Love",
-    "composer": "Roger Vogel",
-    "key": "Eb",
-    "rhythm": "Medium Swing",
-    "time_signature": "4/4",
-    "found": [
-      {
-        "edition_found": 3,
-        "page_number": 260,
-        "scanned_title": "Secret Love",
-        "match_score": 90.9090909090909
-      }
-    ]
-  },
-  {
     "title": "My Shining Hour",
     "composer": "Harold Arlen",
     "key": null,
@@ -9167,21 +9152,6 @@
         "page_number": 356,
         "scanned_title": "You're Everything",
         "match_score": 100.0
-      }
-    ]
-  },
-  {
-    "title": "You're My Everything",
-    "composer": "Harry Warren",
-    "key": null,
-    "rhythm": "Medium Swing",
-    "time_signature": "4/4",
-    "found": [
-      {
-        "edition_found": 3,
-        "page_number": 356,
-        "scanned_title": "You're Everything",
-        "match_score": 93.75
       }
     ]
   },
@@ -14295,4 +14265,3 @@
     ]
   }
 ]
-

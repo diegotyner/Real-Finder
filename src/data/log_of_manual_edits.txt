@@ -3,7 +3,10 @@
 	- Indexed 3rd JRB, 
 11/9/25 - Did some corrections on 3rd index OCR scans,
 - Ill Wind, In Her Family, I Need You Here
-- And ran script to capitalize filenames
+- And ran script to capitalize filenames (Capitalize.sh)
+11/10/25 - Deleted over matches for Ed.3
+- [x] You're Everything -> You're My Everything
+- [x] Secret Love -> My Secret Love
 
 # Future:
 - Match corcovado manually
