@@ -24,3 +24,5 @@ export const createLinkTarget = (
   const cleanedName = song_name.trim().replaceAll(" ", "_").toUpperCase();
   return `/jrb-${edition}-ed/${page_num}/${cleanedName}.pdf`;
 };
+
+export const getNormalizedTitle = (title: string) => title.trim().toLowerCase();

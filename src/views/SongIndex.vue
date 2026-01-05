@@ -12,7 +12,14 @@
         </thead>
         <tbody>
           <tr v-for="(song, index) in processedSongList" :key="index">
-            <td>{{ song.page_number }}</td>
+            <td>
+              {{ song.page_number }}
+              <button 
+                @click="toggleSong(getNormalizedTitle(song.title), edition, song.page_number)"
+              >
+              {{ isInSetlist(getNormalizedTitle(song.title), edition, song.page_number) ? '❤️' : '🤍' }}
+              </button>
+            </td>
             <td>
               <a :href="song.link" target="_blank" rel="noopener noreferrer">
                 {{ titleCase(song.title.toLowerCase()) }}
@@ -31,9 +38,13 @@
 
 <script setup lang="ts">
 import { computed } from 'vue';
+import { getNormalizedTitle } from '@/utils/utils.ts';
 import { editionIndex } from '@/data/indexed_data'; // The pre-processed index data
 import { createLinkTarget } from '@/utils/createLinkTarget'; // The utility function
 import { titleCase } from '@/utils/titleCase';
+import { useSetlist } from '@/utils/useSetlist';
+
+const { setlistIds, toggleSong, isInSetlist } = useSetlist();
 
 // Define component options like 'name' using the defineOptions macro (Vue 3.3+)
 // If on an older version, this must be omitted, and 'name' must be defined 

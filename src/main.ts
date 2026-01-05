@@ -2,8 +2,11 @@ import { createApp } from "vue";
 import "./style.css";
 import App from "@/App.vue";
 import router from "@/router";
+import { setupSetlistGlobal } from "@/utils/useSetlist";
 
 const app = createApp(App);
-app.use(router);
 
+setupSetlistGlobal(app);
+
+app.use(router);
 app.mount("#app");

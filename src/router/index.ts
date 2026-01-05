@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from "vue-router";
 import Home from "@/views/Home.vue";
 import OldHome from "@/views/OldHome.vue";
 import SongIndex from "@/views/SongIndex.vue";
+import SetList from "@/views/SetList.vue";
 
 const routes = [
   {
@@ -14,6 +15,12 @@ const routes = [
     path: "/OldHome",
     name: "OldHome",
     component: OldHome,
+  },
+
+  {
+    path: "/SetList",
+    name: "SetList",
+    component: SetList,
   },
 
   // 2. Dynamic Index Route (for /index/5 and /index/6)

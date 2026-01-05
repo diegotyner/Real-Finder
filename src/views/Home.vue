@@ -16,10 +16,10 @@ const selectedSong = ref(null);
 
 const showMetadata = (song) => {
   selectedSong.value = song;
-  // Optional: Add logic to scroll or display a modal here
 };
 
 /*
+  Song data object:
   {
     "title": "500 Miles High",
     "composer": "Chick Corea",
@@ -37,7 +37,6 @@ const showMetadata = (song) => {
   },
 */
 
-// Best Practice: Initialize complex external libraries once.
 const fuse = new Fuse(
   song_metadata.map(s => ({ ...s, title: s.title.toLowerCase() })),
   {
@@ -46,8 +45,7 @@ const fuse = new Fuse(
   }
 );
 
-// 4. Reactive Search Logic (Replacing the 'input' event listener)
-// Best Practice: Use Vue's reactive 'watch' for input-driven side effects.
+// Like UseEffect, runs functions when searchQuery changes
 watch(searchQuery, (newQuery) => {
   if (!newQuery) {
     exactMatches.value = [];
@@ -57,13 +55,11 @@ watch(searchQuery, (newQuery) => {
 
   const query = newQuery.toLowerCase();
 
-  // Exact matches (Case-insensitive check)
+  // Get filter results for exact and fuzzy search
   const exact = song_metadata.filter((song) =>
     song.title.toLowerCase().includes(query)
   );
-
-  // Fuzzy matches (Using the initialized Fuse object)
-  const fuzzy = fuse.search(query);
+  const fuzzy = fuse.search(query); // fuse defined above,"new Fuse"
 
   // Update reactive state
   exactMatches.value = exact.slice(0, MAX_RESULTS).map(song => ({
@@ -101,7 +97,3 @@ watch(searchQuery, (newQuery) => {
     />
   </div>
 </template>
-
-<style>
-/* Any global resets or typography not covered by Tailwind */
-</style>
