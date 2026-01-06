@@ -65,7 +65,7 @@ const handleUndo = (song: any, index: number) => {
       <div v-if="!IS_EXAMPLE" class="flex items-center justify-between mb-6 border-b pb-4">
         <div >
           <h1 class="text-3xl font-bold text-gray-900">Your Set List</h1>
-          <a href="/SetList/Example" class="link">see example</a>
+          <router-link to="/SetList/Example" class="link">See example</router-link>
         </div>
         <div class="flex items-center space-x-2">
           {{ count }} songs
@@ -74,7 +74,7 @@ const handleUndo = (song: any, index: number) => {
       <div v-else class="flex items-center justify-between mb-6 border-b pb-4">
         <div>
           <h1 class="text-3xl font-bold text-gray-900">Example Set List</h1>
-          <a href="/SetList/Personal" class="link">see personal</a>
+          <router-link to="/SetList/Personal" class="link">See personal</router-link>
         </div>
         <div class="flex items-center space-x-2">
             {{ orderedSongs.length }} songs
