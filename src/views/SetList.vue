@@ -62,7 +62,7 @@ const handleUndo = (song: any, index: number) => {
   <div class="p-6 max-w-4xl mx-auto space-y-10">
     <!-- Active Set List Section -->
     <section>
-      <div v-if="!IS_EXAMPLE" class="flex items-center justify-between mb-6 border-b pb-4">
+      <div v-if="!IS_EXAMPLE" class="sm:flex items-center justify-between mb-6 border-b pb-4">
         <div >
           <h1 class="text-3xl font-bold text-gray-900">Your Set List</h1>
           <router-link to="/SetList/Example" class="link">See example</router-link>
@@ -71,7 +71,7 @@ const handleUndo = (song: any, index: number) => {
           {{ count }} songs
         </div>
       </div>
-      <div v-else class="flex items-center justify-between mb-6 border-b pb-4">
+      <div v-else class="sm:flex items-center justify-between mb-6 border-b pb-4">
         <div>
           <h1 class="text-3xl font-bold text-gray-900">Example Set List</h1>
           <router-link to="/SetList/Personal" class="link">See personal</router-link>
@@ -95,7 +95,7 @@ const handleUndo = (song: any, index: number) => {
         <li 
           v-for="song in orderedSongs" 
           :key="song.id" 
-          class="flex items-center justify-between px-4 py-2 bg-white rounded-lg shadow-sm border border-gray-100"
+          class="flex items-center justify-between px-4 py-2 bg-white rounded-lg shadow-sm border border-gray-100 gap-6"
         >
           <div>
             <h3 class="font-bold text-gray-800">{{ song.displayTitle }}</h3>
@@ -108,7 +108,7 @@ const handleUndo = (song: any, index: number) => {
             <a 
               :href="createLinkTarget(song.title.toUpperCase(), song.page_number, song.edition)" 
               target="_blank"
-              class="text-sm text-indigo-600"
+              class="text-sm text-indigo-600 text-nowrap"
             >
               View PDF
             </a>
