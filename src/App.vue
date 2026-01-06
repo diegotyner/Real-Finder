@@ -1,7 +1,7 @@
 <template>
   <div id="app-container">
     <header class="bg-white px-6 py-3 sticky top-0 z-40 border-b border-1 ">
-      <nav class="flex space-x-4 items-center">
+      <nav class="flex space-x-2 items-center">
         <router-link to="/">Home</router-link>
         <span>|</span>
         <router-link :to="{ name: 'SetList', params: { mode: 'Personal' } }">Set List</router-link>

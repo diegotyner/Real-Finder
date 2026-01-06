@@ -1,10 +1,10 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue';
 import { useSetlist } from '@/utils/useSetlist';
-import { createLinkTarget, titleCase } from '@/utils/utils';
+import { createLinkTarget, titleCase, getNormalizedTitle } from '@/utils/utils';
 import exampleData from '@/data/exampleSetlist.json';
 
-const { setlistIds, toggleSong, count } = useSetlist();
+const { setlistIds, count, toggleSong, isInSetlist } = useSetlist();
 
 const recentRemovals = ref<Array<any>>([]);
 
@@ -120,6 +120,18 @@ const handleUndo = (song: any, index: number) => {
             >
               &times;
             </button>
+            <button 
+              v-else
+              @click="toggleSong(song.title, song.edition, song.page_number)" 
+              class="clickable"
+              :class="isInSetlist(getNormalizedTitle(song.title), song.edition, song.page_number)
+                ? 'text-red-300 hover:text-red-500' 
+                : 'text-gray-300 hover:text-indigo-500'"
+              title="Remove from set list"
+            >
+              {{ isInSetlist(getNormalizedTitle(song.title), song.edition, song.page_number) ? '&times;' : '+' }}
+            </button>
+
           </div>
         </li>
       </ul>
@@ -132,7 +144,7 @@ const handleUndo = (song: any, index: number) => {
         <li 
           v-for="(song, index) in recentRemovals" 
           :key="'trash-' + song.id"
-          class="flex items-center justify-between bg-white/50 p-3 rounded border border-gray-200 border-dashed"
+          class="flex items-center justify-between bg-white/50 p-3 rounded border border-gray-200 border-dashed gap-3"
         >
           <span class="text-sm text-gray-400 line-through italic">
             {{ song.displayTitle }} (Ed. {{ song.edition }})

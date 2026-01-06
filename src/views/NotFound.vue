@@ -1,5 +1,5 @@
 <template>
-  <div class="">
+  <div class="w-full p-5">
     <div class="text-lg">URL not found. Is this a badly linked song pdf?</div>
 
     <div class="mb-2">Check manually for songs here: 
