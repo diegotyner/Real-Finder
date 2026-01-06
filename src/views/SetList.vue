@@ -2,45 +2,58 @@
 import { ref, computed } from 'vue';
 import { useSetlist } from '@/utils/useSetlist';
 import { createLinkTarget, titleCase } from '@/utils/utils';
+import exampleData from '@/data/exampleSetlist.json';
 
 const { setlistIds, toggleSong, count } = useSetlist();
 
-// Local state for tracking removals in the current session only
-// We use the Array<any> syntax to ensure maximum compatibility with the build environment's parser
 const recentRemovals = ref<Array<any>>([]);
 
+const props = defineProps<{
+  mode: string | null; 
+}>();
+
+const IS_EXAMPLE = (props.mode === 'Example')
 const orderedSongs = computed(() => {
-  // Convert the Set to an array of parsed objects for rendering
-  return Array.from(setlistIds.value as Set<string>).map(id => {
-    const [title, edition, page_num] = id.split('|');
-    return { 
-      id, 
-      title, 
-      displayTitle: titleCase(title), 
-      edition: parseInt(edition), 
-      page_number: parseInt(page_num) 
-    };
-  }).sort((a, b) => a.displayTitle.localeCompare(b.displayTitle));
+  let sourceArray = [];
+
+  if (IS_EXAMPLE) {
+    sourceArray = exampleData.map(id => {
+      const [title, edition, page] = id.split('|');
+      return { title, edition: parseInt(edition), page_number: parseInt(page) };
+    });
+  } else {
+    sourceArray = Array.from(setlistIds.value as Set<string>).map(id => {
+      const [title, edition, page] = id.split('|');
+      return { title, edition: parseInt(edition), page_number: parseInt(page) };
+    });
+  }
+
+  return sourceArray.map(song => ({
+    ...song,
+    id: `${song.title}|${song.edition}|${song.page_number}`,
+    displayTitle: titleCase(song.title)
+  })).sort((a, b) => a.displayTitle.localeCompare(b.displayTitle));
 });
 
 const handleRemove = (song: any) => {
-  // 1. Save to local history before removal
+  // Save before removing from local storage
   recentRemovals.value.unshift({ ...song });
   
-  // 2. Limit history size
-  if (recentRemovals.value.length > 5) {
-    recentRemovals.value.pop();
-  }
+  // // Optional snippet to limit history size
+  // const HISTORY_SIZE = 10
+  // if (recentRemovals.value.length > HISTORY_SIZE) {
+  //   recentRemovals.value.pop();
+  // }
 
-  // 3. Trigger global removal via toggle
+  // Toggle song in local storage (deletes)
   toggleSong(song.title, song.edition, song.page_number);
 };
 
 const handleUndo = (song: any, index: number) => {
-  // 1. Add back to global state
+  // Toggle song in local storage (adds/restores)
   toggleSong(song.title, song.edition, song.page_number);
   
-  // 2. Remove from the local trash bin
+  // Remove from recent
   recentRemovals.value.splice(index, 1);
 };
 </script>
@@ -49,17 +62,30 @@ const handleUndo = (song: any, index: number) => {
   <div class="p-6 max-w-4xl mx-auto space-y-10">
     <!-- Active Set List Section -->
     <section>
-      <div class="flex items-center justify-between mb-6 border-b pb-4">
-        <h1 class="text-3xl font-bold text-gray-900">Your Set List</h1>
+      <div v-if="!IS_EXAMPLE" class="flex items-center justify-between mb-6 border-b pb-4">
+        <div >
+          <h1 class="text-3xl font-bold text-gray-900">Your Set List</h1>
+          <a href="/SetList/Example" class="link">see example</a>
+        </div>
         <div class="flex items-center space-x-2">
-            {{ count }} songs
+          {{ count }} songs
+        </div>
+      </div>
+      <div v-else class="flex items-center justify-between mb-6 border-b pb-4">
+        <div>
+          <h1 class="text-3xl font-bold text-gray-900">Example Set List</h1>
+          <a href="/SetList/Personal" class="link">see personal</a>
+        </div>
+        <div class="flex items-center space-x-2">
+            {{ orderedSongs.length }} songs
         </div>
       </div>
 
+
       <!-- Empty State -->
-      <div v-if="count === 0" class="text-center py-16 bg-gray-50 rounded-xl border-2 border-dashed border-gray-200">
-        <p class="text-gray-500 mb-4 font-medium">No songs in your list yet.</p>
-        <router-link to="/" class="text-indigo-600 font-bold hover:text-indigo-800 transition-colors">
+      <div v-if="!IS_EXAMPLE && count === 0" class="text-center py-8 bg-gray-50 rounded-xl border-2 border-dashed border-gray-200">
+        <p class="text-gray-500 mb-1 font-medium">No songs in your list yet.</p>
+        <router-link to="/" class="text-indigo-600 font-bold clickable">
           Search for songs to add
         </router-link>
       </div>
@@ -87,6 +113,7 @@ const handleUndo = (song: any, index: number) => {
               View PDF
             </a>
             <button 
+              v-if="!IS_EXAMPLE"
               @click="handleRemove(song)" 
               class="text-red-300 hover:text-red-500 clickable"
               title="Remove from set list"

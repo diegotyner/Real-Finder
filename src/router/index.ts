@@ -3,6 +3,7 @@ import Home from "@/views/Home.vue";
 import OldHome from "@/views/OldHome.vue";
 import SongIndex from "@/views/SongIndex.vue";
 import SetList from "@/views/SetList.vue";
+import NotFound from "@/views/NotFound.vue";
 
 const routes = [
   {
@@ -17,10 +18,12 @@ const routes = [
     component: OldHome,
   },
 
+  // Dynamic route
   {
-    path: "/SetList",
+    path: "/SetList/:mode?",
     name: "SetList",
     component: SetList,
+    props: true,
   },
 
   // 2. Dynamic Index Route (for /index/5 and /index/6)
@@ -34,7 +37,7 @@ const routes = [
   {
     path: "/:pathMatch(.*)*",
     name: "NotFound",
-    component: () => import("@/views/NotFound.vue"),
+    component: NotFound,
   },
 ];
 

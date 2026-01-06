@@ -4,7 +4,7 @@
       <nav class="flex space-x-4 items-center">
         <router-link to="/">Home</router-link>
         <span>|</span>
-        <router-link :to="{ name: 'SetList' }">Set List</router-link>
+        <router-link :to="{ name: 'SetList', params: { mode: 'Personal' } }">Set List</router-link>
         <span>|</span>
         <router-link :to="{ name: 'SongIndex', params: { edition: 3 } }">Ed. 3</router-link>
         <span>|</span>
@@ -15,7 +15,7 @@
     </header>
 
     <main>
-      <router-view></router-view>
+      <router-view :key="$route.fullPath"></router-view>
     </main>
   </div>
 </template>
