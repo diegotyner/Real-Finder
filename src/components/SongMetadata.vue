@@ -52,11 +52,11 @@ const closeModal = () => {
             Ensures that exact matches and fuzzy matches are counted as the same song.
           -->
           <button 
-            @click="toggleSong(getNormalizedTitle(songData.title), item.edition_found, item.page_number)"
+            @click="toggleSong(getNormalizedTitle(item.scanned_title), item.edition_found, item.page_number)"
             class="absolute top-3 right-20 px-2 py-1 rounded text-xs font-bold transition-colors"
-            :class="isInSetlist(getNormalizedTitle(songData.title), item.edition_found, item.page_number) ? 'bg-red-100 text-red-600' : 'bg-gray-200 text-gray-600'"
+            :class="isInSetlist(getNormalizedTitle(item.scanned_title), item.edition_found, item.page_number) ? 'bg-red-100 text-red-600' : 'bg-gray-200 text-gray-600'"
           >
-            {{ isInSetlist(getNormalizedTitle(songData.title), item.edition_found, item.page_number) ? '❤️ Setlist' : '🤍 Add' }}
+            {{ isInSetlist(getNormalizedTitle(item.scanned_title), item.edition_found, item.page_number) ? '❤️ Setlist' : '🤍 Add' }}
           </button>
           <a :href="createLinkTarget(item.scanned_title, item.page_number, item.edition_found)" target="_blank" class="absolute top-3 right-3 text-sm text-indigo-600"> View PDF</a>
 
