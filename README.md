@@ -2,7 +2,7 @@
 
 Live Site: [here](https://sheets.tynerlab.com/)
 
-### About
+## About
 
 The [Real Book](https://en.wikipedia.org/wiki/Real_Book) is a collection of lead sheets (music with the melody and chords) for various classic jazz tunes (like Autumn Leaves and Misty).
 
@@ -10,14 +10,20 @@ The Real Finder is a tool for searching, browsing, and building setlists from th
 
 > Some pop-leaning standards (e.g. Billy Joel's _Just The Way You Are_) appear only in the 2nd edition, which isn't indexed yet. Try [therealbook.info](https://therealbook.info/) in the meantime.
 
-### Features
+## Features
 
 - Search and fuzzy-find songs across indexed editions
 - Open song PDFs directly from search results
 - Build and persist personal setlists
 - `/legacy.html` — a no-build, no-framework version for direct use
 
-### Pages
+## Tech
+
+**Frontend:** Vite, Vue.js, Tailwind, Fuse.js
+
+**Data Wrangling:** PaddlePaddle, PyMuPDF, rapidfuzz, pandas
+
+## Pages
 
 | Route               | Description                                                                 |
 | ------------------- | --------------------------------------------------------------------------- |
@@ -27,13 +33,7 @@ The Real Finder is a tool for searching, browsing, and building setlists from th
 | `/index/{3\|5\|6}`  | Browse all songs in a specific edition                                      |
 | `/legacy.html`      | Legacy search page (no Vue)                                                 |
 
-### Tech
-
-**Frontend:** Vite, Vue.js, Tailwind, Fuse.js
-
-**Data Wrangling:** PaddlePaddle, PyMuPDF, rapidfuzz, pandas
-
-### OCR Pipeline
+## OCR Pipeline
 
 To index a new edition:
 
@@ -44,7 +44,7 @@ To index a new edition:
    - I'd recommend persisting change logs somewhere, like I've done in `src/data/log_of_manual_edits.txt`. These can be helpful when rerunning the pipeline for a future edition.
 5. Run `/utility_notebooks/metadata2keyed.ipynb` to pre-index for the page view table
 
-### Roadmap
+## Roadmap
 
 I'm pretty happy with this project for my usecase (quickly pulling up tunes on my iPad), but if I were to continue it, here are the most likely next steps:
 
