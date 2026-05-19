@@ -1,25 +1,54 @@
 # Real-Finder
 
-A personal utility for quickly indexing and searching the Jazz Real Book. Currently the fifth and sixth editions are indexed, more to come soon.
+Live Site: [here](https://sheets.tynerlab.com/)
 
-- Check out a minimal deployment [here](https://real-finder.vercel.app/)
+### About
 
-The site is ugly, but that's part of its charm to me. Reminds me of all the CS professors who have a raw html website.
+The [Real Book](https://en.wikipedia.org/wiki/Real_Book) is a collection of lead sheets (music with the melody and chords) for various classic jazz tunes (like Autumn Leaves and Misty).
 
-### Working:
+The Real Finder is a tool for searching, browsing, and building setlists from these hundreds of songs. Currently the third, fifth, and sixth editions are indexed, more to come soon.
 
-A minimal finder for songs in the real book. Simply open up the index.html file and search for songs by entering queries into the input text area. When the song you were searching for pops up, click the link to jump to the song pdf.
+> Some pop-leaning standards (e.g. Billy Joel's _Just The Way You Are_) appear only in the 2nd edition, which isn't indexed yet. Try [therealbook.info](https://therealbook.info/) in the meantime.
 
-Also working is the OCR pipeline to scan the table of contents and extract song names and page numbers.
+### Features
 
-- Run the General_OCR_Pipeline.ipynb
-- Copy and paste the output into a TSV, and perform minimal cleaning on output (joining multiline songs for instance)
-- Run the PDF splitting notebook
+- Search and fuzzy-find songs across indexed editions
+- Open song PDFs directly from search results
+- Build and persist personal setlists
+- `/legacy.html` — a no-build, no-framework version for direct use
+
+### Pages
+
+| Route               | Description                                                                 |
+| ------------------- | --------------------------------------------------------------------------- |
+| `/`                 | Search homepage; includes PDF download links for 3rd, 5th, and 6th editions |
+| `/Setlist/Personal` | Your current setlist                                                        |
+| `/Setlist/Example`  | An example setlist                                                          |
+| `/index/{3\|5\|6}`  | Browse all songs in a specific edition                                      |
+| `/legacy.html`      | Legacy search page (no Vue)                                                 |
 
 ### Tech
 
-Now, switched it from a raw html file (accessible at the `/finder.html` extension) to a Vue3+Vite project.
+**Frontend:** Vite, Vue.js, Tailwind, Fuse.js
 
-### Future:
+**Data Wrangling:** PaddlePaddle, PyMuPDF, rapidfuzz, pandas
 
-Hopefully a more complete finder with options to search for composer, feel/genre, etc, as well as adding in additional real book editions. Certain classics aren't present in the indexed edition (like Just The Way You Are by Billy Joel). For now, you can try searching them on this similar site: [therealbook.info](https://therealbook.info/)
+### OCR Pipeline
+
+To index a new edition:
+
+1. Run `/utility_notebooks/General_OCR_Pipeline.ipynb` on the raw PDF of the new edition
+2. Paste the output into a TSV and do minimal cleaning (fix OCR errors, etc.).
+3. Run `/utility_notebooks/PDF_Splitting.ipynb` using the page number outputs
+4. Run `/utility_notebooks/JRB_Metadata_Joining.ipynb` to merge songs listed under different names (e.g. _Girl From Ipanema, The_ → _The Girl From Ipanema_)
+   - I'd recommend persisting change logs somewhere, like I've done in `src/data/log_of_manual_edits.txt`. These can be helpful when rerunning the pipeline for a future edition.
+5. Run `/utility_notebooks/metadata2keyed.ipynb` to pre-index for the page view table
+
+### Roadmap
+
+I'm pretty happy with this project for my usecase (quickly pulling up tunes on my iPad), but if I were to continue it, here are the most likely next steps:
+
+- Index additional editions
+- Search by composer, feel, key, or genre
+- A "progression finder" - see what standards have a Imaj7 -> III#5 -> IVmaj7 progression for instance (like Some Day My Prince Will Come)
+- A "noodle saver" - jot down ideas in ABC notation and come back to them later
