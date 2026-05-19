@@ -40,7 +40,7 @@ To index a new edition:
 1. Run `/utility_notebooks/General_OCR_Pipeline.ipynb` on the raw PDF of the new edition
 2. Paste the output into a TSV and do minimal cleaning (fix OCR errors, etc.).
 3. Run `/utility_notebooks/PDF_Splitting.ipynb` using the page number outputs
-4. Run `/utility_notebooks/JRB_Metadata_Joining.ipynb` to merge songs listed under different names (e.g. _Girl From Ipanema, The_ → _The Girl From Ipanema_)
+4. Run `/utility_notebooks/JRB_Metadata_Joining.ipynb` to link found songs to an existing database of Jazz Standard chord changes (found [here](https://github.com/mikeoliphant/JazzStandards), thanks to mikeoliphant for compiling). It also merges songs listed under different names (e.g. _Girl From Ipanema, The_ → _The Girl From Ipanema_).
    - I'd recommend persisting change logs somewhere, like I've done in `src/data/log_of_manual_edits.txt`. These can be helpful when rerunning the pipeline for a future edition.
 5. Run `/utility_notebooks/metadata2keyed.ipynb` to pre-index for the page view table
 
