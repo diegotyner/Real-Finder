@@ -6,7 +6,11 @@
         <span>|</span>
         <router-link :to="{ name: 'SetList', params: { mode: 'Personal' } }">Set List</router-link>
         <span>|</span>
+        <router-link :to="{ name: 'SongIndex', params: { edition: 2 } }">Ed. 2</router-link>
+        <span>|</span>
         <router-link :to="{ name: 'SongIndex', params: { edition: 3 } }">Ed. 3</router-link>
+        <span>|</span>
+        <router-link :to="{ name: 'SongIndex', params: { edition: 4 } }">Ed. 4</router-link>
         <span>|</span>
         <router-link :to="{ name: 'SongIndex', params: { edition: 5 } }">Ed. 5</router-link>
         <span>|</span>

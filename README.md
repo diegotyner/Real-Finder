@@ -6,9 +6,9 @@ Live Site: [here](https://sheets.tynerlab.com/)
 
 The [Real Book](https://en.wikipedia.org/wiki/Real_Book) is a collection of lead sheets (music with the melody and chords) for various classic jazz tunes (like Autumn Leaves and Misty).
 
-The Real Finder is a tool for searching, browsing, and building setlists from these hundreds of songs. Currently the third, fifth, and sixth editions are indexed, more to come soon.
+The Real Finder is a tool for searching, browsing, and building setlists from these hundreds of songs. Currently the second, third, fourth, fifth, and sixth editions are indexed.
 
-> Some pop-leaning standards (e.g. Billy Joel's _Just The Way You Are_) appear only in the 2nd edition, which isn't indexed yet. Try [therealbook.info](https://therealbook.info/) in the meantime.
+> To find songs in alternate clefs or transposed, try [therealbook.info](https://therealbook.info/).
 
 ## Features
 
@@ -25,13 +25,13 @@ The Real Finder is a tool for searching, browsing, and building setlists from th
 
 ## Pages
 
-| Route               | Description                                                                 |
-| ------------------- | --------------------------------------------------------------------------- |
-| `/`                 | Search homepage; includes PDF download links for 3rd, 5th, and 6th editions |
-| `/Setlist/Personal` | Your current setlist                                                        |
-| `/Setlist/Example`  | An example setlist                                                          |
-| `/index/{3\|5\|6}`  | Browse all songs in a specific edition                                      |
-| `/legacy.html`      | Legacy search page (no Vue)                                                 |
+| Route                    | Description                                                                 |
+| ------------------------ | --------------------------------------------------------------------------- |
+| `/`                      | Search homepage; includes PDF download links for 3rd, 5th, and 6th editions |
+| `/Setlist/Personal`      | Your current setlist                                                        |
+| `/Setlist/Example`       | An example setlist                                                          |
+| `/index/{2\|3\|4\|5\|6}` | Browse all songs in a specific edition                                      |
+| `/legacy.html`           | Legacy search page (no Vue)                                                 |
 
 ## OCR Pipeline
 

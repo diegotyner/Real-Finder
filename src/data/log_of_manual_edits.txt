@@ -11,11 +11,11 @@
 - [x] You're Everything -> You're My Everything
 - [x] Secret Love -> My Secret Love
 
-//TODO - FIX THE SCRIPT TO REMOVE THESE
 1/6/26 - Removed questions in scanned titles 
 - Only found in ed-6, Miss Jones, Isnt it romantic, what am i here for
+- Changed script to remove filenames from OCR scans
 
-# Future:
-- Match corcovado manually
-- Seperate Yesterday and Yesterdays
-- FIX THE SCRIPT TO REMOVE "?"
+6/7/26 - Indexing editions 2 and 4, and making the following edits:
+- Matched corcovado manually
+- Seperated Yesterday and Yesterdays
+- Editted the PDF splitter to automatically capitalize
