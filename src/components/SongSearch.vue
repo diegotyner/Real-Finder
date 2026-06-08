@@ -45,7 +45,9 @@ const updateSearch = (event) => {
         >
           <a href="jrb_6.pdf" target="_blank" class="link text-sm hover:text-blue-500">6th Edition</a>
           <a href="jrb_5.pdf" target="_blank" class="link text-sm hover:text-blue-500">5th Edition</a>
+          <a href="jrb_4.pdf" target="_blank" class="link text-sm hover:text-blue-500">4th Edition</a>
           <a href="jrb_3.pdf" target="_blank" class="link text-sm hover:text-blue-500">3rd Edition</a>
+          <a href="jrb_2.pdf" target="_blank" class="link text-sm hover:text-blue-500">2nd Edition</a>
         </div>
     </div>
   </div>
