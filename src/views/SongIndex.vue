@@ -3,7 +3,12 @@
     <h1 class="text-3xl font-bold mb-6">Song Index: Edition {{ edition }}</h1>
     <div v-if="processedSongList.length">
       <table>
-        <thead>
+        <colgroup>
+          <col style="width: 80px" />   <!-- Page + button -->
+          <col style="width: 60%" />     <!-- Title -->
+          <col style="width: auto" />    <!-- Composer -->
+        </colgroup>
+        <thead> 
           <tr>
             <th>Page</th>
             <th>Title</th>
@@ -25,7 +30,7 @@
                 {{ titleCase(song.title.toLowerCase()) }}
               </a>
             </td>
-            <td>{{ song.composer }}</td>
+            <td :class="{ 'no-metadata': song.composer === 'No Metadata' }">{{ song.composer }}</td>
           </tr>
         </tbody>
       </table>
@@ -86,6 +91,34 @@ const processedSongList = computed(() => {
 
 <style scoped>
 /* Minimal CSS for readability */
-table { width: 100%; border-collapse: collapse; }
+table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+th { background-color: #f5f5f5; }
 th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+tbody tr:hover {
+  background-color: #f0f0f0;
+}
+th:first-child, td:first-child { 
+  text-align: center; 
+}
+
+th:last-child, td:last-child { 
+  text-align: center; 
+}
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  font-size: 1rem;
+}
+.no-metadata {
+  text-decoration: line-through;
+  color: #aaa;  /* optional: mute it a bit too */
+}
+
+td a:hover {
+  color: #241f6e;        /* match your indigo/blue tone */
+  text-decoration: underline;  /* underline appears only on hover */
+}
 </style>
