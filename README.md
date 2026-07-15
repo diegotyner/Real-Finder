@@ -8,7 +8,7 @@ The [Real Book](https://en.wikipedia.org/wiki/Real_Book) is a collection of lead
 
 The Real Finder is a tool for searching, browsing, and building setlists from these hundreds of songs. Currently the second, third, fourth, fifth, and sixth editions are indexed.
 
-> To find songs in alternate clefs or transposed, try [therealbook.info](https://therealbook.info/).
+> To find songs in bass clef or transposed to Bb/Eb, try [therealbook.info](https://therealbook.info/).
 
 ## Features
 
@@ -48,7 +48,6 @@ To index a new edition:
 
 I'm pretty happy with this project for my usecase (quickly pulling up tunes on my iPad), but if I were to continue it, here are the most likely next steps:
 
-- Index additional editions
 - Search by composer, feel, key, or genre
 - A "progression finder" - see what standards have a Imaj7 -> III#5 -> IVmaj7 progression for instance (like Some Day My Prince Will Come)
 - A "noodle saver" - jot down ideas in ABC notation and come back to them later
